@@ -1,6 +1,6 @@
 # Girandolacabeza_HªFª · Banco de preguntas
 
-420 preguntas. La respuesta correcta es siempre la marcada con ✔ (en la app el orden se baraja).
+840 preguntas. La respuesta correcta es la marcada con ✔ (en la app el orden se baraja).
 
 
 ## Del mito al logos: los presocráticos
@@ -145,6 +145,146 @@ _Los atomistas explican todo por infinitos átomos que se diferencian en forma, 
 ✗ La colonización y el crecimiento de la actividad económica  
 _Precisamente favoreció la filosofía que los griegos carecieran de textos sagrados y de una casta sacerdotal que impusiera un dogma._ (Ref.: Apuntes Tema 1: factores de la crisis de los mitos)
 
+**21. ¿Qué es un mito, según los apuntes del curso?**  
+✔ Un relato fantástico que explica el mundo sin exactitud lógica  
+✗ Una teoría científica sobre el origen de los astros comprobada por la observación  
+✗ Un tratado filosófico escrito en prosa  
+✗ Una ley de la polis aprobada en asamblea  
+_El mito usa personajes y tramas fantásticas para hacer comprensible la experiencia humana, pero sin rigor lógico, histórico ni científico._ (Ref.: Apuntes Tema 1: origen del pensamiento filosófico)
+
+**22. ¿Qué obras se atribuyen a Homero?**  
+✔ La Ilíada y la Odisea  
+✗ La Teogonía y Los trabajos y los días, poemas sobre los dioses y el trabajo  
+✗ El Poema sobre la naturaleza  
+✗ Las Metamorfosis  
+_La Ilíada narra el asedio de Troya y la Odisea, el regreso de Ulises; ambas transmiten creencias, ritos y valores de los griegos._ (Ref.: Apuntes Tema 1: Homero)
+
+**23. ¿Qué narra Hesíodo en Los trabajos y los días?**  
+✔ La dureza de la condición humana y las edades de la humanidad  
+✗ El nacimiento de los dioses olímpicos a partir del Caos originario  
+✗ La guerra de Troya  
+✗ Los viajes de Ulises  
+_Hesíodo describe un progresivo empeoramiento: edades de oro, plata, bronce, héroes y hierro, e incluye el mito de Pandora._ (Ref.: Apuntes Tema 1: Hesíodo)
+
+**24. Según la Teogonía, ¿qué existió en primer lugar?**  
+✔ El Caos  
+✗ Zeus  
+✗ El agua  
+✗ El Logos  
+_«En primer lugar existió el Caos»; después Gea, el Tártaro y Eros._ (Ref.: Hesíodo, Teogonía; Apuntes Tema 1)
+
+**25. ¿Qué representa el mito de Pandora en Hesíodo?**  
+✔ El origen de los males humanos y la esperanza que queda encerrada  
+✗ El nacimiento de la filosofía a partir de la curiosidad de una mujer  
+✗ La creación del mundo  
+✗ El triunfo de los dioses sobre los titanes  
+_Pandora abre la vasija y los males se esparcen; la esperanza queda dentro. Expresa una visión pesimista de la condición humana._ (Ref.: Apuntes Tema 1: Hesíodo)
+
+**26. ¿Qué significa «physis» en los primeros filósofos?**  
+✔ La naturaleza entendida como realidad que nace y crece  
+✗ La ley o convención humana  
+✗ El alma racional  
+✗ El conjunto de los dioses del Olimpo y sus relaciones de parentesco  
+_Los presocráticos buscan el principio (arjé) de la physis, la naturaleza en su totalidad._ (Ref.: Apuntes Tema 1; Reale-Antiseri, I)
+
+**27. ¿Cómo concebían los griegos el tiempo y la naturaleza?**  
+✔ De forma cíclica, sin creación ni fin  
+✗ De forma lineal, con una creación y un final del mundo  
+✗ Como una ilusión  
+✗ Como una línea de progreso indefinido guiada por la razón  
+_Los griegos no conocían la idea de creación; para ellos nada surge absolutamente de la nada._ (Ref.: Apuntes Tema 1: concepción cíclica de la naturaleza)
+
+**28. ¿Qué hazaña astronómica se atribuye a Tales de Mileto?**  
+✔ Predecir un eclipse de sol en el 585 a. C.  
+✗ Calcular la distancia exacta entre la Tierra y la Luna con un instrumento de su invención  
+✗ Descubrir los planetas exteriores  
+✗ Inventar el telescopio  
+_La tradición cuenta que Tales predijo el eclipse del 585 a. C. y que conocía teoremas geométricos de origen egipcio._ (Ref.: Apuntes Tema 1: Tales)
+
+**29. ¿Qué afirmación se atribuye a Tales además de «todo es agua»?**  
+✔ «Todo está lleno de dioses»  
+✗ «El hombre es la medida de todas las cosas»  
+✗ «Todo es número»  
+✗ «Conócete a ti mismo», que estaba inscrito en el templo de Delfos  
+_Tales vincula el principio con lo divino y atribuye vida y alma a la naturaleza._ (Ref.: Aristóteles, Acerca del alma I, 5; Apuntes Tema 1)
+
+**30. ¿A qué escuela pertenecieron Tales, Anaximandro y Anaxímenes?**  
+✔ A la escuela de Mileto o jónica  
+✗ A la escuela de Elea  
+✗ A la escuela pitagórica de Crotona  
+✗ A la escuela atomista de Abdera, en Tracia  
+_Son los primeros filósofos de la naturaleza, en la ciudad jónica de Mileto._ (Ref.: Apuntes Tema 1: la escuela de Mileto)
+
+**31. Según Heráclito, ¿cómo se relacionan los contrarios?**  
+✔ Se necesitan: cada cosa existe por oposición a su contrario  
+✗ Se anulan y desaparecen  
+✗ Son una ilusión de los sentidos  
+✗ Se separan para siempre y nunca vuelven a encontrarse en la naturaleza  
+_«La guerra es padre de todas las cosas»: el conflicto de contrarios produce la armonía del cosmos._ (Ref.: Apuntes Tema 1: Heráclito)
+
+**32. ¿Por qué rechaza Parménides el movimiento y el cambio?**  
+✔ Porque cambiar exigiría pasar del no ser al ser, lo cual es impensable  
+✗ Porque los sentidos nos muestran que todo está quieto  
+✗ Porque así lo enseñaba Tales  
+✗ Porque los dioses prohíben el cambio en la naturaleza y castigan a quien lo afirma  
+_El ser no puede nacer ni perecer, porque nada sale del no ser; el cambio es apariencia._ (Ref.: Parménides, Poema, fr. 8)
+
+**33. ¿Qué relación establece Parménides entre pensar y ser?**  
+✔ «Lo mismo es pensar y ser»  
+✗ Que el pensamiento es un producto de los átomos  
+✗ Que pensar es recordar las Ideas  
+✗ Que el pensamiento no tiene relación con la realidad y es solo opinión  
+_Solo puede pensarse lo que es; el no ser no puede pensarse ni decirse._ (Ref.: Parménides, Poema, fr. 3)
+
+**34. ¿Qué mostraba la paradoja de Aquiles y la tortuga?**  
+✔ Que pensar el movimiento lleva a contradicciones  
+✗ Que Aquiles era el más veloz de los griegos  
+✗ Que el tiempo no existe  
+✗ Que la tortuga es un animal sagrado  
+_Si la tortuga sale con ventaja, Aquiles siempre tendría que alcanzar antes el punto donde estaba ella: nunca la alcanzaría._ (Ref.: Reale-Antiseri, I: Zenón de Elea)
+
+**35. ¿Por qué se llama «pluralistas» a Empédocles, Anaxágoras y los atomistas?**  
+✔ Porque explican la realidad con varios principios, no con uno solo  
+✗ Porque defendían la democracia  
+✗ Porque escribieron muchos libros  
+✗ Porque creían en muchos dioses distintos según la ciudad y el pueblo  
+_Aceptan de Parménides que el ser no nace ni perece, pero explican el cambio por la mezcla de varios principios eternos._ (Ref.: Apuntes Tema 1: físicos pluralistas y atomistas)
+
+**36. ¿Qué eran las «homeomerías» de Anaxágoras?**  
+✔ Semillas de todas las cosas, mezcladas  
+✗ Los cuatro elementos  
+✗ Los números pitagóricos  
+✗ Los átomos indivisibles separados por el vacío  
+_En todo hay parte de todo; cada cosa recibe el nombre de lo que predomina en ella._ (Ref.: Apuntes Tema 1: Anaxágoras)
+
+**37. ¿En qué se diferencian los átomos entre sí según Demócrito?**  
+✔ Por su forma, su orden y su posición  
+✗ Por su color y su sabor  
+✗ Por su alma  
+✗ Por su grado de perfección y su cercanía a los dioses  
+_Las cualidades como el color o el sabor son convencionales; solo existen átomos y vacío._ (Ref.: Aristóteles, Metafísica I, 4; Apuntes Tema 1)
+
+**38. ¿Cómo explican los atomistas el movimiento del cosmos?**  
+✔ Mecánicamente, por choques sin finalidad  
+✗ Por la voluntad de los dioses olímpicos  
+✗ Por el Nous que ordena todo con un fin  
+✗ Por el Amor y el Odio, que alternan en ciclos eternos  
+_El atomismo es la primera explicación mecanicista y materialista de la naturaleza._ (Ref.: Reale-Antiseri, I: los atomistas)
+
+**39. ¿Qué características tiene el logos como principio, según los apuntes?**  
+✔ Es común, eterno, unificador e inteligible  
+✗ Es material, visible y cambiante  
+✗ Es un dios personal que castiga a los hombres  
+✗ Es la opinión de la mayoría  
+_El logos hace comprensible la naturaleza: es causa de los entes, común a la naturaleza y al ser humano, e impersonal._ (Ref.: Apuntes Tema 1: logos)
+
+**40. ¿Qué etapa sigue a la de los presocráticos en la filosofía antigua?**  
+✔ El periodo humanista de Sócrates y los sofistas  
+✗ El periodo helenístico de las escuelas  
+✗ El neoplatonismo  
+✗ El pensamiento cristiano de los Padres de la Iglesia  
+_Tras el periodo naturalista viene el humanista, y después las grandes síntesis de Platón y Aristóteles._ (Ref.: Apuntes Tema 1: etapas de la filosofía antigua)
+
 
 ## Sócrates, los sofistas y Aspasia
 
@@ -287,6 +427,146 @@ _La mujer ateniense estaba recluida en el ámbito doméstico; Aspasia, extranjer
 ✗ Sócrates estudia el origen de la naturaleza y los sofistas se centran en la ética  
 ✗ Sócrates defiende la tiranía de los mejores y los sofistas la democracia radical  
 _Ambos se ocupan del hombre y la polis, pero Sócrates rechaza el relativismo y busca la definición universal del bien sin cobrar._ (Ref.: Tema 48 oposiciones)
+
+**21. ¿Qué significa la palabra «sofista» en su origen?**  
+✔ Sabio o experto en un saber  
+✗ Mentiroso  
+✗ Comerciante  
+✗ Sacerdote que interpreta los oráculos y los sueños  
+_Originalmente «sofista» significaba sabio; el sentido peyorativo procede en buena parte de Platón._ (Ref.: Tema 48 oposiciones)
+
+**22. ¿Qué relación tuvo Protágoras con Pericles?**  
+✔ Fue su amigo y redactó leyes para la colonia de Turios  
+✗ Fue su enemigo político y lo desterró de Atenas  
+✗ Fue su maestro de música  
+✗ No se conocieron, porque vivieron en épocas distintas  
+_Protágoras gozó de prestigio en la Atenas de Pericles, que le encargó la legislación de Turios._ (Ref.: Reale-Antiseri, I: Protágoras)
+
+**23. ¿Qué postura religiosa se atribuye a Protágoras?**  
+✔ El agnosticismo  
+✗ La fe en los dioses olímpicos  
+✗ El monoteísmo  
+✗ El panteísmo: todo es Dios  
+_«Acerca de los dioses no puedo saber si existen o no»: la cuestión es oscura y la vida breve._ (Ref.: Protágoras, fr. 4 DK)
+
+**24. ¿Qué consecuencia moral tiene el relativismo de Protágoras?**  
+✔ Que lo justo es lo que cada ciudad considera justo  
+✗ Que existe una justicia universal y eterna  
+✗ Que la moral la dictan los dioses  
+✗ Que solo el sabio sabe lo que es justo para todos los pueblos  
+_Para Protágoras no hay verdades absolutas, aunque unas opiniones son más útiles que otras._ (Ref.: Platón, Teeteto; Tema 48 oposiciones)
+
+**25. ¿Qué elogió Gorgias en un famoso discurso para mostrar el poder de la palabra?**  
+✔ A Helena de Troya  
+✗ A Pericles  
+✗ A Sócrates  
+✗ A Aquiles y su cólera ante los muros de Troya  
+_En el Encomio de Helena, Gorgias la exculpa: si fue persuadida por la palabra, no es culpable, pues el discurso es un poderoso soberano._ (Ref.: Gorgias, Encomio de Helena)
+
+**26. ¿Qué sofista defiende en el Gorgias de Platón que lo justo por naturaleza es que el fuerte domine al débil?**  
+✔ Calicles  
+✗ Protágoras  
+✗ Pródico  
+✗ Hipias, que defendía una ley natural común a todos  
+_Calicles opone la ley natural del más fuerte a las leyes convencionales que protegen a los débiles._ (Ref.: Platón, Gorgias)
+
+**27. ¿Qué inscripción del templo de Delfos asumió Sócrates como lema?**  
+✔ «Conócete a ti mismo»  
+✗ «Nada en exceso»  
+✗ «Todo fluye»  
+✗ «El hombre es la medida de todas las cosas»  
+_El autoconocimiento es el punto de partida del cuidado del alma._ (Ref.: Platón, Apología; Apuntes Tema 1)
+
+**28. ¿Qué respondió el oráculo de Delfos cuando le preguntaron si había alguien más sabio que Sócrates?**  
+✔ Que nadie era más sabio que él  
+✗ Que lo era Protágoras  
+✗ Que lo era Pericles  
+✗ Que solo los dioses son sabios y ningún hombre  
+_Sócrates interpretó que su sabiduría consistía en saber que no sabía._ (Ref.: Platón, Apología 21a)
+
+**29. ¿Qué era el «daimon» de Sócrates?**  
+✔ Una voz interior que le advertía de lo que no debía hacer  
+✗ Un dios de la ciudad de Atenas  
+✗ Un sofista amigo suyo  
+✗ Un demonio maligno que lo tentaba a cometer injusticias  
+_Sócrates hablaba de una señal divina interior que lo frenaba; sus acusadores la usaron para hablar de «nuevas divinidades»._ (Ref.: Platón, Apología 31c-d)
+
+**30. ¿Por qué no conservamos ningún escrito de Sócrates?**  
+✔ Porque no escribió nada y enseñaba solo dialogando  
+✗ Porque sus obras se quemaron en Alejandría  
+✗ Porque fueron prohibidas por la Iglesia  
+✗ Porque escribió en una lengua que no se ha podido descifrar todavía  
+_Lo conocemos por Platón, Jenofonte, Aristófanes y Aristóteles._ (Ref.: Apuntes Tema 1: Sócrates)
+
+**31. ¿Qué comedia de Aristófanes ridiculiza a Sócrates?**  
+✔ Las nubes  
+✗ Las aves  
+✗ Lisístrata  
+✗ Las ranas, en la que discuten Esquilo y Eurípides  
+_En Las nubes Sócrates aparece como un sofista que enseña a ganar pleitos injustos._ (Ref.: Reale-Antiseri, I: Sócrates)
+
+**32. ¿Por qué no huyó Sócrates de la cárcel cuando sus amigos se lo propusieron?**  
+✔ Porque consideraba que debía respetar las leyes de la ciudad  
+✗ Porque estaba enfermo y no podía caminar  
+✗ Porque esperaba el perdón de los jueces  
+✗ Porque quería demostrar que el alma es mortal y que la muerte no importa  
+_En el Critón, las Leyes de Atenas le recuerdan que ha vivido bajo su protección y debe obedecerlas._ (Ref.: Platón, Critón)
+
+**33. ¿Qué diálogo de Platón narra las últimas horas de Sócrates y trata de la inmortalidad del alma?**  
+✔ Fedón  
+✗ Banquete  
+✗ Protágoras  
+✗ Menón, sobre si la virtud puede enseñarse  
+_El Fedón termina con la muerte de Sócrates tras beber la cicuta._ (Ref.: Platón, Fedón)
+
+**34. ¿Qué entiende Sócrates por libertad?**  
+✔ El dominio de la razón sobre los instintos y pasiones  
+✗ Hacer lo que uno desea en cada momento  
+✗ La independencia política de la polis  
+✗ La riqueza que permite no depender de nadie para vivir  
+_El hombre libre es el que se domina a sí mismo (enkráteia); el esclavo de sus pasiones no es libre._ (Ref.: Apuntes Tema 1: concepto socrático de libertad)
+
+**35. ¿En qué consiste la felicidad para Sócrates?**  
+✔ En la virtud y el cuidado del alma  
+✗ En la riqueza y el poder  
+✗ En los placeres del cuerpo  
+✗ En la fama y el honor obtenidos en la guerra  
+_Para Sócrates el virtuoso es feliz aunque sufra males externos; nada malo puede pasarle al hombre bueno._ (Ref.: Apuntes Tema 1: el nuevo concepto de felicidad)
+
+**36. ¿Qué sostiene Sócrates en el Gorgias sobre cometer y sufrir injusticia?**  
+✔ Que es peor cometer injusticia que sufrirla  
+✗ Que es peor sufrirla que cometerla  
+✗ Que da igual una cosa que otra  
+✗ Que cometer injusticia es justo si beneficia a la ciudad  
+_Quien comete injusticia daña su propia alma, que es lo más valioso._ (Ref.: Platón, Gorgias 469b-c)
+
+**37. ¿Qué régimen político del 404 a. C. persiguió también a Sócrates?**  
+✔ La tiranía de los Treinta  
+✗ La democracia de Pericles  
+✗ La monarquía macedonia  
+✗ La oligarquía de los Cuatrocientos, aliada de Persia  
+_Sócrates se negó a obedecer a los Treinta cuando le ordenaron detener a un inocente, León de Salamina._ (Ref.: Platón, Apología 32c-d)
+
+**38. ¿Por qué se habla de una «Ilustración griega» en el siglo V a. C.?**  
+✔ Porque se critica racionalmente la tradición  
+✗ Porque se inventó la imprenta  
+✗ Porque se fundaron universidades  
+✗ Porque los griegos descubrieron la electricidad y la luz artificial  
+_Como la Ilustración del XVIII, es un momento de confianza en la razón y de crítica de la tradición._ (Ref.: Programación Hª Fª, saber I.2.3)
+
+**39. ¿Qué papel tenía la retórica en la democracia ateniense?**  
+✔ Era clave para convencer en la asamblea y defenderse en los tribunales  
+✗ No tenía ninguna importancia  
+✗ Solo la usaban los sacerdotes  
+✗ Estaba prohibida por las leyes de Solón y castigada con el destierro  
+_En una democracia directa, quien dominaba la palabra tenía influencia política; de ahí la demanda de sofistas._ (Ref.: Tema 48 oposiciones)
+
+**40. ¿Qué fuentes antiguas mencionan a Aspasia además de Platón?**  
+✔ Plutarco y los poetas cómicos  
+✗ Homero y Hesíodo  
+✗ Aristóteles en la Metafísica  
+✗ Ninguna: solo aparece en la Biblia  
+_Plutarco recoge su papel junto a Pericles y las burlas que le dedicaban los poetas cómicos._ (Ref.: Programación Hª Fª, saber I.2.4)
 
 
 ## Platón
@@ -431,6 +711,146 @@ _La sucesión es: aristocracia → timocracia → oligarquía → democracia →
 ✗ En Alejandría  
 _Viajó a Siracusa, donde trató con Dionisio I, Dion y Dionisio II, y sus intentos fracasaron._ (Ref.: Apuntes Tema 2: biografía; Platón, Carta VII)
 
+**21. ¿Cuál era el verdadero nombre de Platón, según la tradición?**  
+✔ Aristocles  
+✗ Aristóteles  
+✗ Aristófanes  
+✗ Aristipo, fundador de la escuela cirenaica  
+_«Platón» sería un apodo, quizá por la anchura de su espalda o de su frente._ (Ref.: Apuntes Tema 2: biografía)
+
+**22. ¿Qué forma literaria utilizó Platón para escribir su filosofía?**  
+✔ El diálogo  
+✗ El tratado sistemático  
+✗ El poema épico  
+✗ El aforismo breve, como Heráclito o Nietzsche  
+_Casi todos sus escritos son diálogos, y en la mayoría el protagonista es Sócrates._ (Ref.: Reale-Antiseri, I: Platón)
+
+**23. ¿Qué filósofos anteriores influyeron en la teoría de las Ideas?**  
+✔ Parménides, Heráclito, pitagóricos y Sócrates  
+✗ Solo los sofistas  
+✗ Los atomistas  
+✗ Epicuro y los estoicos, sus contemporáneos  
+_De Parménides toma lo inmutable; de Heráclito, el devenir sensible; de los pitagóricos, las matemáticas y el alma; de Sócrates, la definición universal._ (Ref.: Apuntes Tema 2: influencias filosóficas)
+
+**24. ¿Qué problema intenta resolver la teoría de las Ideas?**  
+✔ Cómo hay saber estable si lo sensible cambia  
+✗ Cómo se mueven los planetas  
+✗ Cómo se reparte la riqueza  
+✗ Cómo se curan las enfermedades del cuerpo humano  
+_Si todo fluye, no habría ciencia; Platón sitúa el objeto del saber en Ideas inmutables._ (Ref.: Apuntes Tema 2: metafísica)
+
+**25. ¿Qué materia debía estudiarse según la inscripción atribuida a la Academia?**  
+✔ La geometría  
+✗ La retórica  
+✗ La medicina  
+✗ La astrología, para predecir el destino de los gobernantes  
+_«Que no entre aquí nadie que no sepa geometría»: las matemáticas preparan para el conocimiento de las Ideas._ (Ref.: Reale-Antiseri, I: la Academia)
+
+**26. ¿A qué segmento de la línea dividida corresponden las sombras y reflejos?**  
+✔ A la eikasía o imaginación  
+✗ A la pístis o creencia  
+✗ A la diánoia  
+✗ A la nóesis, el grado más alto de conocimiento  
+_La eikasía es el grado más bajo: conoce imágenes de las cosas sensibles._ (Ref.: Platón, República VI)
+
+**27. ¿Qué objetos conoce la diánoia o razonamiento discursivo?**  
+✔ Los objetos matemáticos  
+✗ Las sombras  
+✗ Los seres vivos  
+✗ La Idea de Bien directamente y sin intermediarios  
+_La diánoia parte de hipótesis y usa figuras sensibles, como hacen los geómetras._ (Ref.: Platón, República VI, 510-511)
+
+**28. En el mito de la caverna, ¿qué representa el sol?**  
+✔ La Idea de Bien  
+✗ El fuego del interior  
+✗ Dios creador  
+✗ El poder del tirano sobre los prisioneros  
+_Del mismo modo que el sol permite ver y hace crecer las cosas, el Bien hace cognoscibles las Ideas y les da el ser._ (Ref.: Platón, República VII)
+
+**29. ¿Qué le ocurre al prisionero liberado cuando vuelve a la caverna?**  
+✔ Se burlan de él y podrían matarlo  
+✗ Lo nombran rey  
+✗ Olvida todo lo que ha visto  
+✗ Se convierte en sombra y desaparece para siempre  
+_Alusión a la muerte de Sócrates: el filósofo que intenta educar a los demás es incomprendido._ (Ref.: Platón, República VII, 517a)
+
+**30. ¿Qué ejemplo usa Platón en el Menón para ilustrar la reminiscencia?**  
+✔ Un esclavo que, interrogado, resuelve un problema de geometría  
+✗ Un niño que aprende a leer  
+✗ Un sofista que gana un juicio  
+✗ Un médico que diagnostica una enfermedad por los síntomas  
+_Sin haber estudiado geometría, el esclavo «recuerda» cómo duplicar un cuadrado gracias a las preguntas de Sócrates._ (Ref.: Platón, Menón 82b-85b)
+
+**31. ¿Qué argumento usa Platón en el Fedón para probar la inmortalidad del alma?**  
+✔ Que el alma es afín a las Ideas, simples e imperecederas  
+✗ Que el alma está hecha de átomos de fuego  
+✗ Que el alma no existe  
+✗ Que el cuerpo es inmortal y el alma lo acompaña siempre  
+_Otros argumentos son el de los contrarios, el de la reminiscencia y el del alma como principio de vida._ (Ref.: Platón, Fedón)
+
+**32. ¿Qué significa la expresión sôma-sêma?**  
+✔ El cuerpo es una tumba o cárcel del alma  
+✗ El cuerpo es el templo de los dioses  
+✗ El alma es la forma del cuerpo  
+✗ El cuerpo y el alma son una sola cosa inseparable  
+_Es una idea órfico-pitagórica que Platón recoge: el alma está como encerrada en el cuerpo._ (Ref.: Platón, Gorgias y Crátilo)
+
+**33. ¿Qué es el «eros» en el Banquete de Platón?**  
+✔ El impulso del alma hacia la Belleza en sí  
+✗ Un dios cruel que castiga a los hombres  
+✗ El placer físico como fin último  
+✗ Una enfermedad que hay que evitar a toda costa  
+_Diotima enseña a Sócrates la escala del amor: cuerpos, almas, leyes, ciencias y, por fin, la Idea de Belleza._ (Ref.: Platón, Banquete 210a-212a)
+
+**34. ¿Quién enseña a Sócrates la doctrina del amor en el Banquete?**  
+✔ Diotima de Mantinea  
+✗ Aspasia de Mileto  
+✗ Alcibíades  
+✗ Aristófanes, con el mito de los andróginos  
+_Sócrates atribuye su saber sobre el amor a esta sacerdotisa._ (Ref.: Platón, Banquete 201d)
+
+**35. ¿Qué virtud corresponde a los guardianes o guerreros en la República?**  
+✔ La fortaleza o valentía  
+✗ La sabiduría  
+✗ La templanza  
+✗ La justicia, que solo poseen ellos  
+_Los guardianes se corresponden con la parte irascible del alma._ (Ref.: Platón, República IV)
+
+**36. ¿Qué virtud deben tener todas las clases, y en especial los productores?**  
+✔ La templanza o moderación  
+✗ La sabiduría  
+✗ La fortaleza  
+✗ La piedad hacia los dioses de la ciudad  
+_La templanza es el acuerdo sobre quién debe mandar y obedecer; corresponde a la parte concupiscible._ (Ref.: Platón, República IV)
+
+**37. ¿Qué es la timocracia en la República?**  
+✔ El gobierno de quienes buscan el honor  
+✗ El gobierno de los más ricos  
+✗ El gobierno del pueblo  
+✗ El gobierno de un solo hombre sin leyes ni límites  
+_Cuando los guardianes anteponen la gloria a la sabiduría surge la timocracia, al estilo de Esparta._ (Ref.: Platón, República VIII)
+
+**38. ¿Qué obra escribió Platón en su vejez, más realista que la República?**  
+✔ Las Leyes  
+✗ El Político  
+✗ El Timeo  
+✗ La Apología, defensa de Sócrates ante los jueces  
+_En las Leyes propone un Estado gobernado por leyes, más moderado que el de los filósofos reyes._ (Ref.: Reale-Antiseri, I: Platón)
+
+**39. ¿Qué papel tiene la educación en el proyecto político de Platón?**  
+✔ Es fundamental para que cada uno ocupe su lugar  
+✗ No tiene importancia  
+✗ Debe dejarse en manos de las familias  
+✗ Solo deben educarse los productores para trabajar mejor  
+_Gimnasia, música, matemáticas y dialéctica forman a guardianes y gobernantes._ (Ref.: Platón, República II-III y VII)
+
+**40. ¿Qué crítica hace Platón a los poetas en la República?**  
+✔ Que imitan apariencias y deforman a los dioses  
+✗ Que escriben demasiado poco  
+✗ Que no saben música  
+✗ Que se dedican solo a la política y descuidan el arte  
+_El arte imitativo está a tres grados de la verdad; por eso Platón quiere controlar la poesía en la ciudad ideal._ (Ref.: Platón, República III y X)
+
 
 ## Aristóteles
 
@@ -573,6 +993,146 @@ _Distingue formas rectas (monarquía, aristocracia, politeía) y desviadas (tira
 ✗ La riqueza de la ciudad y el tamaño de su territorio  
 ✗ Que el poder lo ejerza o no un rey hereditario  
 _Las formas rectas buscan el bien común; las desviadas, el interés particular del gobernante._ (Ref.: Aristóteles, Política III, 7)
+
+**21. ¿En qué ciudad nació Aristóteles?**  
+✔ Estagira  
+✗ Atenas  
+✗ Mileto  
+✗ Alejandría, la ciudad que fundaría después su discípulo  
+_Nació en Estagira (Calcídica) en el 384 a. C.; por eso a veces se le llama «el Estagirita»._ (Ref.: Apuntes Tema 3: biografía)
+
+**22. ¿Por qué abandonó Aristóteles Atenas tras la muerte de Alejandro?**  
+✔ Por la reacción antimacedonia: lo acusaron de impiedad  
+✗ Para fundar la Academia en Macedonia  
+✗ Para viajar a Egipto  
+✗ Porque fue nombrado rey de Estagira por los macedonios  
+_Según la tradición dijo que no permitiría que Atenas pecara dos veces contra la filosofía._ (Ref.: Apuntes Tema 3: biografía)
+
+**23. ¿Cómo llamaba Aristóteles a la ciencia que estudia el ser en cuanto ser?**  
+✔ Filosofía primera  
+✗ Física  
+✗ Retórica  
+✗ Lógica o analítica, que es el instrumento de todas las ciencias  
+_El término «metafísica» procede de los editores: eran los libros colocados «después de la física»._ (Ref.: Apuntes Tema 3: metafísica)
+
+**24. ¿Qué significa que «el ser se dice de muchas maneras»?**  
+✔ Que tiene varios sentidos, centrados en la sustancia  
+✗ Que todo es igual  
+✗ Que el ser no existe  
+✗ Que cada lengua tiene una palabra distinta para decir «ser»  
+_Se dice ser de la sustancia y, derivadamente, de la cantidad, la cualidad, la relación… (categorías)._ (Ref.: Aristóteles, Metafísica IV, 2)
+
+**25. ¿Qué son las categorías en Aristóteles?**  
+✔ Los modos más generales de ser y de decir algo de algo  
+✗ Las Ideas eternas de Platón  
+✗ Las formas de gobierno  
+✗ Los cuatro elementos que forman los cuerpos del mundo sublunar  
+_Son diez: sustancia, cantidad, cualidad, relación, lugar, tiempo, posición, estado, acción y pasión._ (Ref.: Aristóteles, Categorías; Apuntes Tema 3)
+
+**26. ¿Qué distingue a la sustancia primera de la segunda?**  
+✔ La primera es el individuo; la segunda, la especie  
+✗ No hay diferencia  
+✗ La primera es Dios y la segunda el mundo  
+✗ La primera es la materia y la segunda la forma de la materia  
+_Sócrates es sustancia primera; «hombre» o «animal», sustancias segundas._ (Ref.: Aristóteles, Categorías 5)
+
+**27. ¿Qué ejemplo ilustra la causa eficiente de una estatua?**  
+✔ El escultor  
+✗ El bronce  
+✗ La figura de la estatua  
+✗ El fin de honrar a un dios en el templo  
+_El bronce es la causa material, la figura la formal y el fin, la final._ (Ref.: Aristóteles, Física II, 3)
+
+**28. ¿Qué es el «movimiento natural» en la física aristotélica?**  
+✔ La tendencia de cada elemento a su lugar natural  
+✗ El movimiento producido por una fuerza externa  
+✗ El movimiento circular de la Tierra  
+✗ El movimiento de los átomos en el vacío  
+_La tierra tiende hacia abajo y el fuego hacia arriba; el movimiento violento es el que contraría esa tendencia._ (Ref.: Aristóteles, Física; Apuntes Tema 3)
+
+**29. ¿Qué es el éter para Aristóteles?**  
+✔ El quinto elemento, propio de los astros  
+✗ El aire que respiramos  
+✗ El fuego del interior de la Tierra  
+✗ El vacío que separa los átomos  
+_El éter es incorruptible y solo admite movimiento circular, perfecto y eterno._ (Ref.: Aristóteles, Sobre el cielo)
+
+**30. ¿Qué papel tiene el entendimiento agente en el conocimiento aristotélico?**  
+✔ Abstrae la forma universal de las imágenes sensibles  
+✗ Recuerda las Ideas vistas antes de nacer  
+✗ Recibe pasivamente las sensaciones  
+✗ Crea las cosas al pensarlas, como hace el Dios de los cristianos  
+_El entendimiento agente «ilumina» la imagen y extrae lo universal; el paciente lo recibe._ (Ref.: Aristóteles, Acerca del alma III, 5; Apuntes Tema 3)
+
+**31. ¿Qué instrumento lógico desarrolló Aristóteles?**  
+✔ El silogismo  
+✗ El cálculo de proposiciones moderno  
+✗ La duda metódica  
+✗ La dialéctica de tesis, antítesis y síntesis  
+_Un silogismo concluye necesariamente a partir de dos premisas: todos los hombres son mortales…_ (Ref.: Aristóteles, Analíticos primeros)
+
+**32. ¿Cómo se llama el conjunto de obras lógicas de Aristóteles?**  
+✔ Órganon  
+✗ Enéadas  
+✗ Suma  
+✗ Diálogos, como los de su maestro Platón  
+_Órganon significa «instrumento»: la lógica es la herramienta de todas las ciencias._ (Ref.: Reale-Antiseri, I: Aristóteles)
+
+**33. ¿Qué tipo de vida considera Aristóteles la más feliz?**  
+✔ La vida contemplativa o teorética  
+✗ La vida dedicada al placer  
+✗ La vida dedicada a ganar dinero  
+✗ La vida dedicada a la guerra y a la conquista  
+_La contemplación es la actividad de lo más divino que hay en nosotros, el entendimiento._ (Ref.: Aristóteles, Ética a Nicómaco X, 7)
+
+**34. ¿Qué papel tienen los bienes externos en la felicidad aristotélica?**  
+✔ Son necesarios en cierta medida, aunque no son la felicidad  
+✗ No tienen ningún papel  
+✗ Son la felicidad misma  
+✗ Solo los necesitan los esclavos, no los ciudadanos libres  
+_Un mínimo de salud, bienes y amigos hace falta para vivir según la virtud._ (Ref.: Aristóteles, Ética a Nicómaco I, 8)
+
+**35. ¿Qué es la amistad (philía) para Aristóteles?**  
+✔ Una virtud necesaria para vivir bien  
+✗ Un placer pasajero sin valor moral  
+✗ Una forma de comercio  
+✗ Una pasión peligrosa que el sabio debe evitar  
+_Distingue amistad por utilidad, por placer y por virtud; solo esta última es perfecta._ (Ref.: Aristóteles, Ética a Nicómaco VIII-IX)
+
+**36. ¿Qué diferencia hay entre la justicia distributiva y la conmutativa?**  
+✔ Una reparte según mérito; la otra iguala intercambios  
+✗ Son lo mismo  
+✗ La distributiva es de los dioses  
+✗ La conmutativa se aplica solo en la guerra y en los tratados de paz  
+_La distributiva aplica una igualdad proporcional; la correctiva o conmutativa, una igualdad aritmética._ (Ref.: Aristóteles, Ética a Nicómaco V)
+
+**37. ¿Qué comunidades preceden a la polis según la Política?**  
+✔ La familia y la aldea  
+✗ La tribu y el imperio  
+✗ El gremio y la universidad  
+✗ La Iglesia y el Estado, que son anteriores a todo  
+_La polis es la comunidad perfecta y autosuficiente; es anterior por naturaleza a la familia y al individuo._ (Ref.: Aristóteles, Política I, 2)
+
+**38. ¿Qué postura mantiene Aristóteles sobre la esclavitud?**  
+✔ La justifica: algunos serían esclavos por naturaleza  
+✗ La rechaza como injusta  
+✗ No habla de ella  
+✗ Propone abolirla en la ciudad ideal, como Platón  
+_Es uno de los límites históricos de su pensamiento, propio de la sociedad griega._ (Ref.: Aristóteles, Política I)
+
+**39. ¿Qué es la democracia en la clasificación aristotélica?**  
+✔ La forma desviada del gobierno de muchos  
+✗ La mejor forma de gobierno  
+✗ El gobierno de un rey  
+✗ El gobierno de los sabios  
+_La forma recta del gobierno de muchos es la politeía._ (Ref.: Aristóteles, Política III)
+
+**40. ¿Qué influencia tuvo Aristóteles en la Edad Media?**  
+✔ Llegó a ser «el Filósofo» por excelencia  
+✗ Fue ignorado por completo  
+✗ Fue condenado como hereje por Agustín  
+✗ Solo se conoció su obra poética  
+_Averroes lo comentó y Tomás de Aquino lo integró en la teología cristiana._ (Ref.: Programación Hª Fª, saber II.1.4)
 
 
 ## El Helenismo e Hipatia de Alejandría
@@ -717,6 +1277,146 @@ _Hipatia representa la presencia de la mujer en la ciencia y la filosofía, y el
 ✗ Marco Aurelio  
 _La clausura de la Academia por Justiniano suele tomarse como el final de la filosofía antigua._ (Ref.: Apuntes Tema 1: etapas de la filosofía antigua)
 
+**21. ¿Qué significa «helenístico»?**  
+✔ Relativo a la cultura griega tras Alejandro  
+✗ Relativo a Helena de Troya  
+✗ Anterior a Homero  
+✗ Relativo a la cultura romana del Imperio  
+_El periodo va de la muerte de Alejandro (323 a. C.) a la conquista romana de Egipto (30 a. C.)._ (Ref.: Reale-Antiseri, I)
+
+**22. ¿Qué es la ataraxia?**  
+✔ La serenidad del alma  
+✗ El placer físico intenso  
+✗ La suspensión del juicio  
+✗ La unión mística con el Uno  
+_Es el ideal común de epicúreos y escépticos._ (Ref.: Reale-Antiseri, I: las escuelas helenísticas)
+
+**23. ¿Qué es la apatheia de los estoicos?**  
+✔ La ausencia de pasiones que perturban al sabio  
+✗ La indiferencia ante el sufrimiento ajeno  
+✗ La falta de interés por la filosofía  
+✗ El placer moderado  
+_El sabio estoico domina sus pasiones con la razón y así es libre._ (Ref.: Reale-Antiseri, I: el estoicismo)
+
+**24. ¿Qué física sostenía Epicuro?**  
+✔ El atomismo, con el clinamen  
+✗ La teoría de las Ideas  
+✗ El hilemorfismo  
+✗ Los cuatro elementos de Empédocles movidos por el Amor  
+_El clinamen introduce espontaneidad en el movimiento atómico y deja espacio a la libertad._ (Ref.: Reale-Antiseri, I: Epicuro)
+
+**25. ¿Qué poeta latino expuso la filosofía de Epicuro en Sobre la naturaleza de las cosas?**  
+✔ Lucrecio  
+✗ Virgilio  
+✗ Horacio  
+✗ Ovidio, autor de las Metamorfosis  
+_Lucrecio difundió el epicureísmo en Roma en el siglo I a. C._ (Ref.: Reale-Antiseri, I)
+
+**26. ¿Qué papel tiene la amistad en el epicureísmo?**  
+✔ Es uno de los mayores bienes  
+✗ No tiene importancia  
+✗ Debe evitarse porque produce dolor  
+✗ Solo es útil para hacer negocios  
+_En el Jardín se vivía en comunidad de amigos, incluidas mujeres y esclavos._ (Ref.: Epicuro, Máximas capitales)
+
+**27. ¿Qué es el cosmopolitismo estoico?**  
+✔ Que todos somos ciudadanos del mundo  
+✗ El amor por los viajes  
+✗ La defensa de la polis griega frente a los bárbaros  
+✗ El gobierno de un emperador universal elegido por los dioses  
+_Todos participan del mismo logos; por eso el sabio es «ciudadano del mundo»._ (Ref.: Reale-Antiseri, I: el estoicismo)
+
+**28. ¿Qué emperador romano escribió las Meditaciones desde el estoicismo?**  
+✔ Marco Aurelio  
+✗ Nerón  
+✗ Augusto  
+✗ Constantino, que se convirtió al cristianismo  
+_Marco Aurelio escribió reflexiones personales en griego durante sus campañas._ (Ref.: Reale-Antiseri, I)
+
+**29. ¿Qué estoico había sido esclavo antes de ser filósofo?**  
+✔ Epicteto  
+✗ Séneca  
+✗ Zenón de Citio  
+✗ Crisipo  
+_Epicteto distingue lo que depende de nosotros (juicios, deseos) de lo que no depende de nosotros._ (Ref.: Epicteto, Enquiridión)
+
+**30. ¿En qué se parecen el cinismo de Diógenes y el estoicismo?**  
+✔ En buscar la autosuficiencia y vivir conforme a la naturaleza  
+✗ En defender el placer  
+✗ En negar toda moral  
+✗ En la defensa de la riqueza como condición de la virtud  
+_Zenón de Citio fue discípulo del cínico Crates._ (Ref.: Reale-Antiseri, I)
+
+**31. ¿Cómo explica Plotino la procedencia de todas las cosas a partir del Uno?**  
+✔ Por emanación, como la luz que irradia del sol  
+✗ Por creación libre de la nada  
+✗ Por el choque de átomos  
+✗ Por un pacto entre los dioses del Olimpo  
+_Del Uno emanan la Inteligencia, el Alma y, en último lugar, la materia._ (Ref.: Reale-Antiseri, I: Plotino)
+
+**32. ¿Qué influencia tuvo el neoplatonismo?**  
+✔ Influyó mucho en el cristianismo, sobre todo en Agustín  
+✗ No tuvo ninguna influencia  
+✗ Influyó solo en la medicina  
+✗ Fue el origen del atomismo moderno  
+_Agustín reconoce que los «libros platónicos» le ayudaron a entender la realidad espiritual._ (Ref.: Apuntes: San Agustín)
+
+**33. ¿Qué matemático de Alejandría escribió los Elementos?**  
+✔ Euclides  
+✗ Arquímedes  
+✗ Pitágoras  
+✗ Tales  
+_Los Elementos fueron el modelo de la geometría deductiva durante más de dos mil años._ (Ref.: Reale-Antiseri, I: la ciencia helenística)
+
+**34. ¿Qué astrónomo de Alejandría escribió el Almagesto, con el modelo geocéntrico?**  
+✔ Claudio Ptolomeo  
+✗ Aristarco de Samos  
+✗ Eratóstenes  
+✗ Hiparco, que descubrió la precesión de los equinoccios  
+_Hipatia y su padre Teón comentaron el Almagesto._ (Ref.: Amalia González, Hipatia de Alejandría)
+
+**35. ¿Sobre qué obra de Apolonio de Perga se atribuye un comentario a Hipatia?**  
+✔ Las Cónicas  
+✗ Los Elementos  
+✗ La Física  
+✗ La República  
+_Las fuentes antiguas le atribuyen también un comentario a la Aritmética de Diofanto._ (Ref.: Amalia González, Hipatia de Alejandría)
+
+**36. ¿Qué instrumentos técnicos aparecen relacionados con Hipatia?**  
+✔ El astrolabio y el hidroscopio  
+✗ El telescopio y el microscopio  
+✗ La brújula y el reloj de péndulo  
+✗ La imprenta y el papel  
+_Sinesio le pide en una carta un hidroscopio, instrumento para medir líquidos._ (Ref.: Amalia González, Hipatia de Alejandría)
+
+**37. ¿Quién era Cirilo de Alejandría?**  
+✔ El obispo, enfrentado al prefecto Orestes  
+✗ Un discípulo de Hipatia  
+✗ El padre de Hipatia  
+✗ El director de la Biblioteca  
+_En el conflicto entre Cirilo y Orestes, consejero de Hipatia, se produjo su asesinato en el 415._ (Ref.: Amalia González, Hipatia de Alejandría)
+
+**38. ¿A quiénes enseñaba Hipatia?**  
+✔ A alumnos paganos y cristianos  
+✗ Solo a mujeres  
+✗ Solo a sacerdotes egipcios  
+✗ Solo a los hijos del emperador de Roma  
+_Entre sus discípulos hubo cristianos como Sinesio, futuro obispo._ (Ref.: Amalia González, Hipatia de Alejandría)
+
+**39. ¿Qué destaca el estudio sobre Hipatia acerca de las fuentes de su vida?**  
+✔ Que la conocemos sobre todo por Sinesio  
+✗ Que escribió una autobiografía  
+✗ Que se conservan todas sus obras  
+✗ Que no existen fuentes antiguas sobre ella  
+_No se conservan con seguridad obras suyas; la conocemos por discípulos e historiadores._ (Ref.: Amalia González, Hipatia de Alejandría)
+
+**40. ¿Por qué se toma la muerte de Hipatia como símbolo?**  
+✔ Del final de la ciencia pagana alejandrina  
+✗ Del inicio del Renacimiento  
+✗ De la fundación de Roma  
+✗ Del triunfo del epicureísmo  
+_Su asesinato marca simbólicamente el ocaso del Museo y de la cultura científica alejandrina._ (Ref.: Programación Hª Fª, saber I.4.3)
+
 
 ## Filosofía medieval: Agustín, Hildegard y el problema fe-razón
 
@@ -859,6 +1559,146 @@ _Realistas, nominalistas y posiciones intermedias discutieron el estatuto de gé
 ✗ El orden y la finalidad del mundo exigen una inteligencia que lo ordene  
 ✗ Si me engaño, existo; y la verdad que encuentro en mí remite a Dios  
 _Anselmo argumenta a priori: si Dios existiera solo en la mente, podría pensarse algo mayor, lo cual es contradictorio._ (Ref.: San Anselmo, Proslogion)
+
+**21. ¿Qué hecho suele marcar el comienzo de la Edad Media?**  
+✔ La caída del Imperio romano de Occidente en el 476  
+✗ El nacimiento de Cristo  
+✗ La muerte de Aristóteles  
+✗ La conquista de Constantinopla por los turcos  
+_La Edad Media se extiende hasta el siglo XV (1453 o 1492, según los historiadores)._ (Ref.: Apuntes Tema 5: contexto histórico)
+
+**22. ¿Qué es la Patrística?**  
+✔ La filosofía de los Padres de la Iglesia  
+✗ La filosofía de las universidades del siglo XIII  
+✗ El estudio de la patria  
+✗ La filosofía árabe  
+_Los Padres defendieron y explicaron la fe cristiana con ayuda de la filosofía griega; Agustín es su gran figura._ (Ref.: Filosofía Medieval (apuntes))
+
+**23. ¿Qué religión dualista siguió san Agustín en su juventud?**  
+✔ El maniqueísmo  
+✗ El orfismo  
+✗ El islam  
+✗ El judaísmo  
+_Los maniqueos explicaban el mundo por dos principios en lucha, el Bien y el Mal._ (Ref.: Apuntes: San Agustín)
+
+**24. ¿Quién influyó en la conversión de san Agustín en Milán?**  
+✔ San Ambrosio, obispo de Milán  
+✗ Plotino  
+✗ Tomás de Aquino  
+✗ Boecio  
+_Las predicaciones de Ambrosio y la influencia de su madre, Mónica, fueron decisivas._ (Ref.: San Agustín, Confesiones)
+
+**25. «Nos hiciste, Señor, para ti, y nuestro corazón está inquieto hasta que descanse en ti». ¿De qué obra es?**  
+✔ Confesiones de san Agustín  
+✗ Suma teológica  
+✗ Proslogion  
+✗ Scivias  
+_Es el comienzo de las Confesiones, que expresan la búsqueda de Dios en la interioridad._ (Ref.: San Agustín, Confesiones I, 1)
+
+**26. ¿Dónde busca san Agustín la verdad?**  
+✔ En la interioridad: «no salgas fuera, vuelve a ti mismo»  
+✗ En la observación de la naturaleza  
+✗ En los libros de los sofistas  
+✗ En la experiencia sensible, que es la única fuente segura  
+_«En el hombre interior habita la verdad»._ (Ref.: San Agustín, De la verdadera religión 39, 72)
+
+**27. ¿Qué son las «razones seminales» de san Agustín?**  
+✔ Gérmenes puestos por Dios en la creación  
+✗ Las semillas de las plantas  
+✗ Los argumentos de los filósofos  
+✗ Las Ideas platónicas separadas de Dios  
+_Dios creó todo de una vez; algunas cosas existían en germen y se desarrollan después._ (Ref.: Apuntes: San Agustín)
+
+**28. ¿Dónde sitúa san Agustín las Ideas eternas de Platón?**  
+✔ En la mente de Dios  
+✗ En un mundo separado de Dios  
+✗ En la materia  
+✗ En la mente de cada ser humano desde el nacimiento  
+_Las Ideas son los modelos según los que Dios crea._ (Ref.: Apuntes: San Agustín)
+
+**29. ¿Qué acontecimiento llevó a san Agustín a escribir La ciudad de Dios?**  
+✔ El saqueo de Roma en el 410  
+✗ La caída de Constantinopla  
+✗ La conversión de Constantino  
+✗ El concilio de Nicea  
+_Los paganos acusaban a los cristianos de la caída de Roma; Agustín responde con una teología de la historia._ (Ref.: San Agustín, La ciudad de Dios)
+
+**30. ¿Cómo concibe san Agustín la historia?**  
+✔ Como un proceso lineal con sentido, de la creación al juicio final  
+✗ Como un ciclo eterno que se repite  
+✗ Como un azar sin sentido  
+✗ Como el progreso de la razón humana sin intervención divina  
+_Frente a la visión cíclica griega, el cristianismo introduce la historia lineal y con un fin._ (Ref.: San Agustín, La ciudad de Dios)
+
+**31. ¿Qué papel tiene la gracia en el pensamiento de san Agustín?**  
+✔ Sin ella la voluntad no puede obrar el bien  
+✗ No tiene ninguna importancia  
+✗ Sustituye por completo la libertad humana  
+✗ Es un premio que se gana con las obras  
+_Agustín polemizó con Pelagio, que confiaba en la capacidad humana para salvarse sin la gracia._ (Ref.: Apuntes: San Agustín)
+
+**32. ¿Qué es el «Ordo Virtutum» de Hildegard von Bingen?**  
+✔ Un drama musical sobre las Virtudes  
+✗ Una regla monástica  
+✗ Un tratado de medicina  
+✗ Una lista de pecados  
+_Es uno de los dramas litúrgicos más antiguos que se conservan._ (Ref.: Programación Hª Fª, saber II.1.2)
+
+**33. ¿A qué edad entró Hildegard en la vida religiosa, según la tradición?**  
+✔ De niña, consagrada por sus padres  
+✗ Ya anciana, al enviudar  
+✗ Nunca entró en la vida religiosa  
+✗ A los cuarenta años, tras sus visiones  
+_Fue confiada de niña a la reclusa Jutta en el monasterio de Disibodenberg._ (Ref.: Apuntes: Hildegarda de Bingen)
+
+**34. ¿Qué describen las obras Physica y Causae et curae de Hildegard?**  
+✔ La naturaleza y la medicina  
+✗ Las guerras de su tiempo  
+✗ La lógica de Aristóteles  
+✗ La historia de los papas  
+_Son tratados de ciencias naturales y medicina de su época._ (Ref.: Programación Hª Fª, saber II.1.2)
+
+**35. ¿Con qué personajes poderosos mantuvo correspondencia Hildegard?**  
+✔ Con papas, emperadores y san Bernardo  
+✗ Con nadie: vivió aislada  
+✗ Con Tomás de Aquino  
+✗ Con Lutero y Calvino  
+_Su autoridad espiritual le permitió aconsejar y criticar a los poderosos de su tiempo._ (Ref.: Apuntes: Hildegarda de Bingen)
+
+**36. ¿Qué significa «Scivias»?**  
+✔ «Conoce los caminos (del Señor)»  
+✗ «Ciencia de la vida»  
+✗ «Ciudad de Dios»  
+✗ «Suma contra los gentiles»  
+_En Scivias recoge 26 visiones con su interpretación._ (Ref.: Apuntes: Hildegarda de Bingen)
+
+**37. ¿Quién escribió La consolación de la filosofía en la cárcel, en el siglo VI?**  
+✔ Boecio  
+✗ San Agustín  
+✗ Escoto Eriúgena  
+✗ Alcuino de York  
+_Boecio transmitió a la Edad Media parte de la lógica aristotélica._ (Ref.: Filosofía Medieval (apuntes))
+
+**38. ¿Qué posición defendía el realismo extremo en la querella de los universales?**  
+✔ Que los universales existen fuera de la mente  
+✗ Que solo son palabras  
+✗ Que no existen individuos  
+✗ Que los universales son sensaciones  
+_Frente a él, el nominalismo sostiene que solo existen individuos._ (Ref.: Tema 11 oposiciones)
+
+**39. ¿Qué monje criticó el argumento ontológico de san Anselmo con el ejemplo de una isla perfecta?**  
+✔ Gaunilón  
+✗ Abelardo  
+✗ Ockham  
+✗ Pedro Lombardo  
+_Pensar una isla perfecta no prueba que exista; Anselmo replicó que el caso de Dios es único._ (Ref.: Filosofía Medieval (apuntes))
+
+**40. ¿Cómo se llamaba el lema de san Anselmo sobre fe y razón?**  
+✔ «La fe que busca entender»  
+✗ «Creo porque es absurdo»  
+✗ «Solo la razón»  
+✗ «Duda de todo»  
+_Anselmo parte de la fe y usa la razón para comprenderla._ (Ref.: San Anselmo, Proslogion)
 
 
 ## Tomás de Aquino y Guillermo de Ockham
@@ -1003,6 +1843,146 @@ _Ockham negó al Papa la plenitud de poder sobre los asuntos temporales y defend
 ✗ Las cívicas: patriotismo y obediencia  
 _Las virtudes cardinales (prudencia, justicia, fortaleza, templanza) conducen a la felicidad natural; las teologales, a la sobrenatural: la visión de Dios._ (Ref.: Apuntes Tema 5: ética)
 
+**21. ¿Qué apodo recibió Tomás de Aquino de sus compañeros de estudio?**  
+✔ «El buey mudo»  
+✗ «El doctor sutil»  
+✗ «El filósofo»  
+✗ «La espada de la fe»  
+_Alberto Magno dijo que los mugidos de ese buey se oirían en todo el mundo._ (Ref.: Apuntes Tema 5: biografía)
+
+**22. ¿Qué obra de Tomás de Aquino se dirige a los no creyentes?**  
+✔ Suma contra los gentiles  
+✗ Suma teológica  
+✗ Sobre el ente y la esencia  
+✗ Comentario a las Sentencias de Pedro Lombardo  
+_Argumenta con la razón, pues los gentiles no aceptan la autoridad de las Escrituras._ (Ref.: Apuntes Tema 5)
+
+**23. ¿Cómo se estructura un artículo de la Suma teológica?**  
+✔ Pregunta, objeciones, respuesta y soluciones  
+✗ Prólogo, diálogo y epílogo  
+✗ Aforismos sueltos  
+✗ Poema dividido en cantos  
+_Es el método de la quaestio escolástica._ (Ref.: Tomás de Aquino, Suma teológica)
+
+**24. ¿Qué afirma la «analogía del ser» en Tomás de Aquino?**  
+✔ Que el ser se dice de Dios y de las criaturas por semejanza  
+✗ Que Dios y las criaturas son iguales  
+✗ Que el ser se dice en un único sentido  
+✗ Que no podemos decir nada de Dios  
+_Dios es el ser por esencia; las criaturas tienen el ser por participación._ (Ref.: Apuntes Tema 5: la analogía del ser)
+
+**25. ¿De qué parte la segunda vía tomista?**  
+✔ De las causas eficientes  
+✗ Del movimiento  
+✗ De la contingencia  
+✗ De los grados de perfección  
+_No puede haber una serie infinita de causas; hay una causa primera, Dios._ (Ref.: Tomás de Aquino, Suma teológica I, q. 2, a. 3)
+
+**26. ¿De qué parte la tercera vía tomista?**  
+✔ De los seres contingentes  
+✗ Del movimiento  
+✗ Del orden del mundo  
+✗ De los grados de bondad y verdad  
+_Si todo pudiera no ser, en algún momento nada habría sido; existe un ser necesario._ (Ref.: Tomás de Aquino, Suma teológica I, q. 2, a. 3)
+
+**27. ¿De qué parte la cuarta vía tomista?**  
+✔ De los grados de perfección  
+✗ Del movimiento  
+✗ De la causalidad  
+✗ De la finalidad de la naturaleza  
+_Si hay más y menos bueno o verdadero, hay un máximo que es causa de esas perfecciones._ (Ref.: Tomás de Aquino, Suma teológica I, q. 2, a. 3)
+
+**28. ¿Por qué rechaza Tomás el argumento ontológico de san Anselmo?**  
+✔ Porque hay que partir de los efectos, no de la idea  
+✗ Porque niega la existencia de Dios  
+✗ Porque Anselmo era hereje  
+✗ Porque prefiere la fe sola  
+_La existencia de Dios es evidente en sí, pero no para nosotros._ (Ref.: Tomás de Aquino, Suma teológica I, q. 2, a. 1)
+
+**29. ¿Cómo entiende Tomás de Aquino la relación entre alma y cuerpo?**  
+✔ El alma es forma del cuerpo y sobrevive  
+✗ El alma está presa en el cuerpo  
+✗ El alma muere con el cuerpo  
+✗ Son dos sustancias completas sin relación  
+_Sigue a Aristóteles (hilemorfismo), pero afirma la inmortalidad del alma racional._ (Ref.: Apuntes Tema 5: antropología)
+
+**30. ¿Cómo conoce el ser humano según Tomás de Aquino?**  
+✔ Por los sentidos y la abstracción  
+✗ Por iluminación divina directa  
+✗ Por ideas innatas  
+✗ Recordando una vida anterior  
+_Sigue el empirismo moderado aristotélico: nada hay en el entendimiento que no haya pasado por los sentidos._ (Ref.: Apuntes Tema 5: teoría del conocimiento)
+
+**31. ¿Qué tipos de ley distingue Tomás de Aquino?**  
+✔ Eterna, natural, humana y divina  
+✗ Física, química y biológica  
+✗ Civil, penal y mercantil  
+✗ Escrita y oral  
+_La ley divina es la revelada en las Escrituras._ (Ref.: Tomás de Aquino, Suma teológica I-II, q. 91)
+
+**32. ¿Cuál es el fin último del ser humano para Tomás de Aquino?**  
+✔ La visión de Dios  
+✗ El placer  
+✗ La riqueza  
+✗ La gloria política  
+_La felicidad natural es imperfecta; la perfecta solo se alcanza en la contemplación de Dios._ (Ref.: Apuntes Tema 5: ética)
+
+**33. ¿Qué régimen político prefiere Tomás de Aquino?**  
+✔ Una monarquía moderada y mixta  
+✗ La tiranía  
+✗ La anarquía  
+✗ La democracia directa de Atenas  
+_El gobernante debe buscar el bien común; el tirano que lo traiciona pierde legitimidad._ (Ref.: Apuntes Tema 5: política)
+
+**34. ¿Qué universidades fueron centros de la Escolástica?**  
+✔ París y Oxford  
+✗ Salamanca y Harvard  
+✗ Alejandría y Atenas  
+✗ Berlín y Viena  
+_Tomás enseñó en París; Ockham estudió en Oxford._ (Ref.: Apuntes Tema 5: universidades)
+
+**35. ¿En qué siglo vivió Guillermo de Ockham?**  
+✔ En el XIV  
+✗ En el XII  
+✗ En el XVI  
+✗ En el IX  
+_Ockham (h. 1287-1347) representa la crisis de la Escolástica._ (Ref.: Apuntes: Guillermo de Ockham)
+
+**36. ¿Qué atributo de Dios subraya Ockham por encima de todo?**  
+✔ Su omnipotencia  
+✗ Su inmovilidad  
+✗ Su racionalidad necesaria  
+✗ Su identidad con la naturaleza  
+_Dios podría haber hecho el mundo y la moral de otro modo; nada lo obliga._ (Ref.: Tema 53 oposiciones)
+
+**37. ¿Qué consecuencia tiene para la moral el voluntarismo de Ockham?**  
+✔ Lo bueno es bueno porque Dios lo quiere  
+✗ Lo bueno se conoce por la razón sin Dios  
+✗ No existe la moral  
+✗ La moral depende del Estado  
+_Frente al intelectualismo tomista, la voluntad divina fundamenta la ley moral._ (Ref.: Tema 53 oposiciones)
+
+**38. ¿Qué científico de la escuela nominalista del siglo XIV desarrolló la teoría del ímpetu?**  
+✔ Juan Buridán  
+✗ Galileo Galilei  
+✗ Roger Bacon  
+✗ Nicolás Copérnico  
+_El ímpetu anticipa el concepto de inercia; lo desarrolló también Nicolás de Oresme._ (Ref.: Tema 53 oposiciones)
+
+**39. ¿Qué es un «término» para la lógica de Ockham?**  
+✔ Un signo que está en lugar de individuos  
+✗ Una Idea eterna  
+✗ Una sustancia  
+✗ Un número  
+_Los términos universales significan a muchos individuos, pero no hay una realidad universal._ (Ref.: Tema 53 oposiciones)
+
+**40. ¿A qué orden religiosa pertenecía también Duns Escoto, el «doctor sutil»?**  
+✔ A los franciscanos  
+✗ A los dominicos  
+✗ A los jesuitas  
+✗ A los agustinos  
+_Escoto y Ockham, ambos franciscanos, criticaron aspectos de la síntesis tomista._ (Ref.: Filosofía Medieval (apuntes))
+
 
 ## Renacimiento, revolución científica y Reforma
 
@@ -1145,6 +2125,146 @@ _Servet describió la circulación menor en Christianismi restitutio; fue quemad
 ✗ Tycho Brahe  
 ✗ Nicolás de Cusa  
 _Bruno defendió un universo infinito con infinitos mundos; fue condenado por herejía._ (Ref.: Reale-Antiseri, II)
+
+**21. ¿Qué hecho de 1453 suele tomarse como inicio de la Edad Moderna?**  
+✔ La toma de Constantinopla por los turcos  
+✗ El descubrimiento de América por Colón  
+✗ La Revolución francesa  
+✗ La publicación de los Principia de Newton  
+_Otros historiadores prefieren 1492; la Edad Moderna llega hasta 1789._ (Ref.: Apuntes Tema 6: contexto histórico)
+
+**22. ¿En qué etapas culturales se divide la Edad Moderna?**  
+✔ Renacimiento, Barroco e Ilustración  
+✗ Antigüedad, Edad Media y Edad Contemporánea  
+✗ Romanticismo y Realismo  
+✗ Patrística y Escolástica  
+_Renacimiento (XV-XVI), Barroco (XVII) e Ilustración (XVIII)._ (Ref.: Apuntes Tema 6)
+
+**23. ¿Qué significa «antropocentrismo» en el Renacimiento?**  
+✔ Que el ser humano pasa al centro  
+✗ Que la Tierra es el centro del universo  
+✗ Que Dios es el centro de todo  
+✗ Que los animales son iguales a los hombres  
+_Frente al teocentrismo medieval, el humanismo pone al ser humano en el centro, sin abandonar la fe._ (Ref.: Apuntes Tema 6: humanismo renacentista)
+
+**24. ¿Qué ciudad italiana fue el gran centro del humanismo gracias a los Médici?**  
+✔ Florencia  
+✗ Roma  
+✗ Venecia  
+✗ Nápoles  
+_En Florencia funcionó la Academia platónica de Marsilio Ficino._ (Ref.: Reale-Antiseri, II)
+
+**25. ¿Qué humanista florentino tradujo al latín las obras de Platón?**  
+✔ Marsilio Ficino  
+✗ Maquiavelo  
+✗ Pico della Mirandola  
+✗ Lorenzo Valla  
+_Ficino dirigió la Academia platónica florentina y difundió el neoplatonismo._ (Ref.: Reale-Antiseri, II)
+
+**26. Según Maquiavelo, ¿qué conviene más al príncipe, ser amado o ser temido?**  
+✔ Ser temido, si no puede ser ambas cosas  
+✗ Ser amado siempre  
+✗ Ni lo uno ni lo otro  
+✗ Ser odiado para que nadie se le acerque  
+_El príncipe debe evitar el odio, pero el temor es más seguro que el amor, que es voluble._ (Ref.: Maquiavelo, El príncipe XVII)
+
+**27. ¿Qué significa la «virtù» del príncipe en Maquiavelo?**  
+✔ La energía para ganar y conservar el poder  
+✗ La virtud cristiana de la humildad  
+✗ La sabiduría contemplativa  
+✗ La obediencia al Papa  
+_La virtù se enfrenta a la fortuna, que gobierna la mitad de nuestras acciones._ (Ref.: Maquiavelo, El príncipe XXV)
+
+**28. ¿Qué modelo astronómico sustituyó Copérnico?**  
+✔ El geocéntrico de Ptolomeo  
+✗ El heliocéntrico de Aristarco  
+✗ El de Kepler  
+✗ El de Newton  
+_Durante siglos se aceptó el sistema de Ptolomeo, con la Tierra inmóvil en el centro._ (Ref.: Tema 54 oposiciones)
+
+**29. ¿Qué descubrió Galileo con el telescopio?**  
+✔ Las lunas de Júpiter, las fases de Venus y las montañas de la Luna  
+✗ La órbita elíptica de Marte  
+✗ La gravitación universal  
+✗ Los anillos de Saturno con total claridad y su composición  
+_Lo publicó en El mensajero sideral (1610); sus observaciones apoyaban el copernicanismo._ (Ref.: Tema 54 oposiciones)
+
+**30. ¿Qué distinguen Galileo y Descartes entre las cualidades de los cuerpos?**  
+✔ Cualidades primarias y secundarias  
+✗ Cualidades divinas y humanas  
+✗ Cualidades buenas y malas  
+✗ Cualidades visibles e invisibles  
+_La ciencia solo estudia lo cuantificable: extensión, figura, movimiento._ (Ref.: Tema 54 oposiciones)
+
+**31. ¿Qué ley física formula la primera ley de Newton?**  
+✔ La ley de la inercia  
+✗ La ley de la gravitación  
+✗ La ley de acción y reacción  
+✗ La ley de la caída libre  
+_Todo cuerpo permanece en reposo o en movimiento rectilíneo uniforme si no actúa una fuerza sobre él._ (Ref.: Newton, Principia)
+
+**32. ¿Qué astrónomo danés aportó a Kepler observaciones muy precisas?**  
+✔ Tycho Brahe  
+✗ Copérnico  
+✗ Galileo  
+✗ Halley  
+_Kepler usó los datos de Brahe sobre Marte para deducir las órbitas elípticas._ (Ref.: Tema 54 oposiciones)
+
+**33. ¿Qué lema expresa la concepción de Bacon sobre el conocimiento?**  
+✔ «Saber es poder»  
+✗ «Pienso, luego existo»  
+✗ «Atrévete a saber»  
+✗ «Ser es ser percibido»  
+_Para Bacon la ciencia debe servir para dominar la naturaleza en beneficio humano._ (Ref.: Reale-Antiseri, II: Bacon)
+
+**34. ¿Qué son los «ídolos de la tribu» según Bacon?**  
+✔ Errores comunes a toda la especie humana  
+✗ Prejuicios de cada individuo  
+✗ Errores por el mal uso del lenguaje  
+✗ Falsas filosofías aceptadas por tradición  
+_Los de la caverna son individuales, los del foro proceden del lenguaje y los del teatro, de las filosofías._ (Ref.: Bacon, Novum organum)
+
+**35. ¿Qué concilio organizó la respuesta católica a la Reforma?**  
+✔ El concilio de Trento  
+✗ El concilio de Nicea  
+✗ El Vaticano II  
+✗ El concilio de Constanza  
+_Trento (1545-1563) fijó la doctrina católica y emprendió la Contrarreforma._ (Ref.: Programación Hª Fª, saber II.2.2)
+
+**36. ¿Qué orden religiosa fundó san Ignacio de Loyola en el contexto de la Contrarreforma?**  
+✔ La Compañía de Jesús  
+✗ Los franciscanos  
+✗ Los dominicos  
+✗ Los benedictinos  
+_Los jesuitas destacaron en la educación y en las misiones._ (Ref.: Programación Hª Fª, SA3)
+
+**37. ¿Qué paz de 1555 estableció el principio «cuius regio, eius religio»?**  
+✔ La paz de Augsburgo  
+✗ La paz de Westfalia  
+✗ La paz de Utrecht  
+✗ La paz de Ryswick  
+_Cada príncipe determinaba la religión de su territorio; Westfalia (1648) cerró la guerra de los Treinta Años._ (Ref.: Programación Hª Fª, saber II.2.2)
+
+**38. ¿Qué filósofo francés del Renacimiento escribió los Ensayos y se preguntaba «¿qué sé yo?»?**  
+✔ Michel de Montaigne  
+✗ René Descartes  
+✗ Blaise Pascal  
+✗ Pierre Bayle  
+_Montaigne representa un escepticismo humanista que influyó en Descartes._ (Ref.: Reale-Antiseri, II)
+
+**39. ¿Qué humanista valenciano escribió sobre la educación de la mujer y la atención a los pobres?**  
+✔ Juan Luis Vives  
+✗ Francisco Suárez  
+✗ Francisco de Vitoria  
+✗ Miguel Servet  
+_Vives escribió La instrucción de la mujer cristiana y Del socorro de los pobres._ (Ref.: Reale-Antiseri, II)
+
+**40. ¿Qué teólogo de la Escuela de Salamanca fundó el derecho internacional?**  
+✔ Francisco de Vitoria  
+✗ Juan Luis Vives  
+✗ Bartolomé de las Casas  
+✗ Ignacio de Loyola  
+_En sus Relecciones sobre los indios analizó los títulos de la conquista de América._ (Ref.: Reale-Antiseri, II)
 
 
 ## El racionalismo: Descartes
@@ -1289,6 +2409,146 @@ _Cada mónada refleja el universo desde su punto de vista; Dios estableció entr
 ✗ Porque negó la existencia de Dios y del alma inmortal  
 _Con el cogito, la filosofía pasa del ser (cosa) al pensamiento (sujeto); el problema del conocimiento se vuelve central._ (Ref.: Apuntes Tema 6)
 
+**21. ¿En qué año publicó Descartes el Discurso del método?**  
+✔ En 1637  
+✗ En 1543  
+✗ En 1781  
+✗ En 1690  
+_Se publicó en francés, como prólogo a tres tratados científicos: Dióptrica, Meteoros y Geometría._ (Ref.: Apuntes Tema 6: biografía y obras)
+
+**22. ¿En qué colegio estudió Descartes?**  
+✔ En el colegio jesuita de La Flèche  
+✗ En la Universidad de Oxford  
+✗ En la Academia de Platón  
+✗ En la Sorbona como profesor  
+_Allí recibió una formación escolástica que después le pareció insuficiente, salvo las matemáticas._ (Ref.: Apuntes Tema 6: biografía)
+
+**23. ¿Dónde murió Descartes en 1650?**  
+✔ En Estocolmo  
+✗ En París  
+✗ En Ámsterdam  
+✗ En Roma  
+_Daba clases a la reina de madrugada y murió de una neumonía._ (Ref.: Apuntes Tema 6)
+
+**24. ¿Qué aportación matemática se debe a Descartes?**  
+✔ La geometría analítica  
+✗ El cálculo infinitesimal  
+✗ La teoría de la probabilidad  
+✗ Los logaritmos  
+_Unió álgebra y geometría mediante coordenadas (ejes cartesianos)._ (Ref.: Apuntes Tema 6)
+
+**25. ¿Qué significa que una idea es «clara»?**  
+✔ Que se presenta manifiesta a la mente  
+✗ Que se separa de todas las demás  
+✗ Que procede de los sentidos  
+✗ Que se puede escribir  
+_Una idea distinta es, además, la que está tan separada de las demás que no contiene nada que no le pertenezca._ (Ref.: Descartes, Principios de la filosofía I, 45)
+
+**26. ¿Qué es la hipótesis del «genio maligno»?**  
+✔ Suponer un ser que nos engaña siempre  
+✗ La creencia en el demonio cristiano  
+✗ Un personaje del Discurso  
+✗ Una teoría médica sobre la locura  
+_Lleva la duda al extremo: ni siquiera las matemáticas quedan a salvo._ (Ref.: Descartes, Meditaciones I)
+
+**27. ¿Qué es la res cogitans?**  
+✔ La sustancia que piensa  
+✗ La sustancia extensa  
+✗ Dios  
+✗ El cerebro  
+_Pensar incluye dudar, entender, afirmar, negar, querer, imaginar y sentir._ (Ref.: Descartes, Meditaciones II)
+
+**28. ¿Qué ejemplo usa Descartes para mostrar que conocemos los cuerpos por el entendimiento y no por los sentidos?**  
+✔ Un trozo de cera que se funde  
+✗ Un bastón que parece roto en el agua  
+✗ Una torre que de lejos parece redonda  
+✗ Un sueño en el que vuela  
+_Tras fundirse, la cera conserva solo la extensión, que capta el entendimiento._ (Ref.: Descartes, Meditaciones II)
+
+**29. ¿Qué argumento ontológico formula Descartes en la quinta meditación?**  
+✔ Que existir es propio del ser perfecto  
+✗ Todo lo que se mueve es movido por otro  
+✗ El orden del mundo requiere un ordenador  
+✗ Si me engaño, existo  
+_Igual que el triángulo tiene tres ángulos, el ser perfecto tiene la existencia._ (Ref.: Descartes, Meditaciones V)
+
+**30. ¿Cómo explica Descartes el error si Dios no nos engaña?**  
+✔ Por una voluntad que va más allá del entendimiento  
+✗ Por el genio maligno  
+✗ Por los sentidos, que siempre engañan  
+✗ Porque Dios lo quiere  
+_Erramos cuando la voluntad afirma más de lo que el entendimiento ve con claridad._ (Ref.: Descartes, Meditaciones IV)
+
+**31. ¿Qué son los «espíritus animales» en la fisiología cartesiana?**  
+✔ Partículas que circulan por los nervios  
+✗ Almas de los animales  
+✗ Seres sobrenaturales  
+✗ Pasiones del alma  
+_Forman parte de su explicación mecánica del cuerpo._ (Ref.: Descartes, Las pasiones del alma)
+
+**32. ¿Qué obra dedicó Descartes a las emociones y su control?**  
+✔ Las pasiones del alma  
+✗ Meditaciones metafísicas  
+✗ El mundo  
+✗ Reglas para la dirección del espíritu  
+_La moral cartesiana busca dominar las pasiones con la razón._ (Ref.: Apuntes Tema 6: ética)
+
+**33. ¿Por qué no publicó Descartes su tratado El mundo?**  
+✔ Por la condena de Galileo  
+✗ Porque lo perdió  
+✗ Porque no lo terminó nunca  
+✗ Porque su editor quebró  
+_El tratado defendía tesis copernicanas._ (Ref.: Apuntes Tema 6: biografía)
+
+**34. ¿Qué afirma la tercera máxima de la moral provisional?**  
+✔ Vencerse a uno mismo antes que a la fortuna  
+✗ Obedecer las leyes del país  
+✗ Ser firme en las decisiones  
+✗ Dedicar la vida a cultivar la razón  
+_La primera es obedecer las leyes y costumbres; la segunda, ser firme y resuelto._ (Ref.: Descartes, Discurso del método III)
+
+**35. ¿Qué problema dejó abierto el dualismo cartesiano?**  
+✔ La relación entre alma y cuerpo  
+✗ La existencia de Dios  
+✗ La existencia del cogito  
+✗ La validez de las matemáticas  
+_Si son sustancias totalmente distintas, ¿cómo pueden influirse? Spinoza, Malebranche y Leibniz darán respuestas._ (Ref.: Apuntes Tema 6: antropología)
+
+**36. ¿Qué solución dio Malebranche al problema alma-cuerpo?**  
+✔ El ocasionalismo  
+✗ La glándula pineal  
+✗ La armonía preestablecida  
+✗ El monismo  
+_Las criaturas no causan nada realmente; son ocasiones para que Dios actúe._ (Ref.: Reale-Antiseri, II)
+
+**37. ¿Qué afirma la «armonía preestablecida» de Leibniz?**  
+✔ Que Dios sincronizó las mónadas  
+✗ El alma mueve el cuerpo  
+✗ El mundo es azar  
+✗ Solo existe una sustancia  
+_Las mónadas no tienen ventanas: no se influyen, pero Dios las armonizó como relojes._ (Ref.: Tema 57 oposiciones)
+
+**38. ¿Qué sostuvo Leibniz sobre nuestro mundo?**  
+✔ Que es el mejor de los posibles  
+✗ Que es el peor de los mundos  
+✗ Que es una ilusión  
+✗ Que no tiene creador  
+_Voltaire lo parodió en Cándido._ (Ref.: Tema 57 oposiciones)
+
+**39. ¿Qué obra de Spinoza expone su sistema «a la manera geométrica»?**  
+✔ Ética  
+✗ Tratado teológico-político  
+✗ Monadología  
+✗ Leviatán  
+_Usa definiciones, axiomas y proposiciones como Euclides._ (Ref.: Tema 56 oposiciones)
+
+**40. ¿Qué pensador francés afirmó que «el corazón tiene razones que la razón no conoce»?**  
+✔ Blaise Pascal  
+✗ Descartes  
+✗ Montaigne  
+✗ Malebranche  
+_Pascal, matemático y creyente, criticó el exceso de confianza racionalista._ (Ref.: Reale-Antiseri, II)
+
 
 ## El empirismo: Locke y Hume
 
@@ -1431,6 +2691,146 @@ _Son los dos polos de la teoría moderna del conocimiento, que Kant intentará s
 ✗ Solo las impresiones vivas que recibimos de los sentidos  
 ✗ Las cualidades primarias que están en los objetos  
 _La mente recibe pasivamente ideas simples y forma activamente ideas complejas: modos, sustancias y relaciones._ (Ref.: Locke, Ensayo II, 12)
+
+**21. ¿Qué obra principal de Locke trata del conocimiento?**  
+✔ Ensayo sobre el entendimiento humano  
+✗ Segundo tratado sobre el gobierno civil  
+✗ Carta sobre la tolerancia  
+✗ Leviatán  
+_Publicado en 1690, analiza el origen y los límites de las ideas._ (Ref.: Apuntes Tema 7: Locke)
+
+**22. ¿Qué defendió Locke en la Carta sobre la tolerancia?**  
+✔ La tolerancia religiosa  
+✗ La religión oficial obligatoria  
+✗ El ateísmo  
+✗ La persecución de los herejes  
+_El Estado no debe imponer creencias; excluía, sin embargo, a ateos y católicos._ (Ref.: Apuntes Tema 7: Locke)
+
+**23. ¿Qué entiende Locke por «sustancia»?**  
+✔ Un soporte desconocido de las cualidades  
+✗ Una idea clara y distinta  
+✗ La extensión  
+✗ El pensamiento  
+_La idea de sustancia es compleja y oscura; no tenemos impresión de ella._ (Ref.: Locke, Ensayo II, 23)
+
+**24. ¿Cómo resolvió Berkeley la existencia de los objetos que nadie percibe?**  
+✔ Dios los percibe  
+✗ Dejan de existir  
+✗ Existen como materia  
+✗ Son ideas innatas  
+_Para Berkeley, sin mente que perciba no hay cosas; Dios garantiza su continuidad._ (Ref.: Apuntes Tema 7: Berkeley)
+
+**25. ¿Qué diferencia hay entre impresiones de sensación y de reflexión en Hume?**  
+✔ Unas vienen de fuera; otras, de la mente  
+✗ Son lo mismo  
+✗ Las de reflexión son innatas  
+✗ Las de sensación son más débiles  
+_Las pasiones y deseos son impresiones de reflexión._ (Ref.: Hume, Tratado I, I, 2)
+
+**26. ¿Qué leyes de asociación de ideas distingue Hume?**  
+✔ Semejanza, contigüidad y causa-efecto  
+✗ Tesis, antítesis y síntesis  
+✗ Análisis y síntesis  
+✗ Identidad, contradicción y tercero excluido  
+_La imaginación une ideas según estos principios._ (Ref.: Hume, Investigación III)
+
+**27. ¿Qué ejemplo usa Hume para mostrar que la causalidad no se ve?**  
+✔ Dos bolas de billar  
+✗ Un trozo de cera  
+✗ Un bastón en el agua  
+✗ Una manzana que cae  
+_Vemos el movimiento de una bola y luego el de la otra, pero no la «fuerza» que las une._ (Ref.: Hume, Investigación IV-VII)
+
+**28. ¿Qué es la creencia (belief) para Hume?**  
+✔ Un sentimiento vivo, no una prueba  
+✗ Un acto de la fe religiosa  
+✗ Una demostración racional  
+✗ Una idea innata  
+_Creer que el sol saldrá mañana es un sentimiento basado en la costumbre._ (Ref.: Hume, Investigación V)
+
+**29. ¿Por qué duda Hume de la existencia del mundo exterior?**  
+✔ Porque solo tenemos percepciones  
+✗ Porque Dios no la garantiza  
+✗ Porque las matemáticas lo niegan  
+✗ Porque los sentidos son infalibles  
+_Creemos en el mundo por naturaleza, pero no podemos demostrarlo._ (Ref.: Apuntes Tema 7: el mundo)
+
+**30. ¿Qué dice Hume del argumento del diseño para probar a Dios?**  
+✔ Que no es concluyente  
+✗ Que es una demostración perfecta  
+✗ Que es innato  
+✗ Que lo demuestra la física  
+_Lo critica en los Diálogos sobre la religión natural, publicados tras su muerte._ (Ref.: Apuntes Tema 7: Dios)
+
+**31. ¿Qué es el emotivismo moral asociado a Hume?**  
+✔ Que juzgar moralmente es expresar sentimientos  
+✗ La moral basada en la razón pura  
+✗ La moral de los mandamientos  
+✗ La moral del placer físico  
+_Llamamos virtud a lo que produce en nosotros un sentimiento agradable de aprobación._ (Ref.: Hume, Tratado III; Apuntes Tema 7)
+
+**32. ¿Qué virtud considera Hume artificial, nacida de la convención y la utilidad?**  
+✔ La justicia  
+✗ La benevolencia  
+✗ La generosidad  
+✗ La compasión  
+_La justicia surge por la escasez de bienes y el egoísmo limitado._ (Ref.: Hume, Tratado III, II)
+
+**33. ¿Qué papel tiene la razón en la acción según Hume?**  
+✔ Es esclava de las pasiones  
+✗ Es la única guía de la acción  
+✗ Domina siempre a las pasiones  
+✗ No tiene ningún papel  
+_La razón informa sobre medios y hechos; los fines los ponen las pasiones._ (Ref.: Hume, Tratado II, III, 3)
+
+**34. ¿Qué filósofo escocés fue amigo de Hume y escribió La riqueza de las naciones?**  
+✔ Adam Smith  
+✗ Thomas Reid  
+✗ Francis Hutcheson  
+✗ John Stuart Mill  
+_Smith desarrolló también una teoría de los sentimientos morales basada en la simpatía._ (Ref.: Reale-Antiseri, II)
+
+**35. ¿Por qué no obtuvo Hume una cátedra universitaria?**  
+✔ Por su fama de escéptico  
+✗ Porque no estudió  
+✗ Porque era extranjero  
+✗ Porque no quiso enseñar  
+_Fracasó en Edimburgo y Glasgow; trabajó como bibliotecario, secretario y diplomático._ (Ref.: Apuntes Tema 7: biografía)
+
+**36. ¿Qué es el «problema de la inducción»?**  
+✔ Que no podemos justificar la inducción  
+✗ Que no sabemos sumar  
+✗ Que los sentidos no existen  
+✗ Que Dios no existe  
+_Muchos casos observados no garantizan el siguiente._ (Ref.: Hume, Investigación IV)
+
+**37. ¿Qué significa el escepticismo «mitigado» de Hume?**  
+✔ Admitir los límites de la razón y seguir viviendo  
+✗ Dudar de todo y no actuar  
+✗ Negar la existencia de todo  
+✗ Aceptar todo sin crítica  
+_La naturaleza es demasiado fuerte: en la vida práctica creemos y actuamos._ (Ref.: Hume, Investigación XII)
+
+**38. ¿Qué influencia de Hume reconoció Kant?**  
+✔ Que lo despertó del sueño dogmático  
+✗ Que le enseñó geometría  
+✗ Que lo convirtió al cristianismo  
+✗ Que le enseñó el idealismo  
+_La crítica humeana de la causalidad le obligó a repensar la metafísica._ (Ref.: Kant, Prolegómenos)
+
+**39. ¿Qué entiende Locke por ideas de reflexión?**  
+✔ Las ideas de nuestras propias operaciones mentales  
+✗ Ideas de los objetos externos  
+✗ Ideas innatas  
+✗ Ideas de Dios  
+_La reflexión es una especie de sentido interno._ (Ref.: Locke, Ensayo II, 1)
+
+**40. ¿Qué distingue a Hume de Locke respecto a la idea de sustancia?**  
+✔ Hume rechaza la sustancia; Locke no  
+✗ Ambos la consideran innata  
+✗ Locke la rechaza y Hume la acepta  
+✗ No se diferencian  
+_Para Hume la sustancia es solo una colección de cualidades unidas por la imaginación._ (Ref.: Idea de sustancia en Hume (materiales Tema 58))
 
 
 ## El contractualismo: Hobbes, Locke y Rousseau
@@ -1575,6 +2975,146 @@ _En Teoría de la justicia (1971), Rawls imagina una posición original en la qu
 ✗ Un robo, porque toda propiedad es injusta  
 _El trabajo hace propio lo que era común; la propiedad es un derecho natural anterior al Estado._ (Ref.: Locke, Segundo tratado V)
 
+**21. ¿Qué guerra vivió Hobbes y le influyó en su defensa de un poder fuerte?**  
+✔ La guerra civil inglesa  
+✗ La guerra de los Cien Años  
+✗ La Revolución francesa  
+✗ La guerra de Independencia de EE. UU.  
+_El conflicto entre el rey y el Parlamento le hizo temer la anarquía._ (Ref.: Apuntes Tema 7: Hobbes)
+
+**22. ¿Qué concepción del ser humano tiene Hobbes?**  
+✔ Materialista y mecanicista  
+✗ Espiritualista  
+✗ Bondadosa por naturaleza  
+✗ Política por naturaleza, como Aristóteles  
+_Hobbes rechaza la sociabilidad natural aristotélica._ (Ref.: Apuntes Tema 7: Hobbes)
+
+**23. ¿Qué tres causas de discordia encuentra Hobbes en la naturaleza humana?**  
+✔ Competencia, desconfianza y gloria  
+✗ Pobreza, ignorancia y enfermedad  
+✗ Religión, raza y lengua  
+✗ Riqueza, poder y fama  
+_Los hombres luchan por ganancia, seguridad y reputación._ (Ref.: Hobbes, Leviatán XIII)
+
+**24. ¿Qué es la ley natural para Hobbes?**  
+✔ Un precepto racional de buscar la paz  
+✗ La ley de Dios revelada  
+✗ La ley del más fuerte  
+✗ Las costumbres de cada pueblo  
+_La primera ley natural es buscar la paz; la segunda, renunciar al derecho a todo si los demás también lo hacen._ (Ref.: Hobbes, Leviatán XIV)
+
+**25. ¿Puede el súbdito resistirse al soberano según Hobbes?**  
+✔ Solo para salvar su propia vida  
+✗ Siempre que quiera  
+✗ Nunca, ni siquiera para salvar la vida  
+✗ Solo si lo decide el Parlamento  
+_El derecho a la vida es inalienable; fuera de eso, la obediencia es total._ (Ref.: Hobbes, Leviatán XXI)
+
+**26. ¿Qué hecho histórico justificó Locke con su teoría política?**  
+✔ La Revolución Gloriosa  
+✗ La Revolución francesa  
+✗ La guerra civil española  
+✗ El absolutismo de Luis XIV  
+_Tras ella se estableció en Inglaterra una monarquía parlamentaria._ (Ref.: Apuntes Tema 7: Locke, política)
+
+**27. ¿Qué límite pone Locke a la apropiación de bienes en el estado de naturaleza?**  
+✔ No acumular lo que se echa a perder  
+✗ Ninguno  
+✗ Solo poseer tierras heredadas  
+✗ Repartirlo todo con el soberano  
+_La invención del dinero permitió acumular sin que los bienes se estropearan._ (Ref.: Locke, Segundo tratado V)
+
+**28. ¿Qué texto político se inspiró directamente en Locke?**  
+✔ La Declaración de Independencia de EE. UU.  
+✗ El Manifiesto comunista  
+✗ La República de Platón  
+✗ El príncipe de Maquiavelo  
+_Jefferson recoge los derechos inalienables a la vida, la libertad y la búsqueda de la felicidad._ (Ref.: Programación Hª Fª, saber II.3.1)
+
+**29. ¿Qué obra de Rousseau ganó el concurso de la Academia de Dijon en 1750?**  
+✔ Discurso sobre las ciencias y las artes  
+✗ El contrato social  
+✗ Emilio  
+✗ Discurso sobre el origen de la desigualdad  
+_Sostuvo que el progreso de las ciencias y las artes había corrompido las costumbres._ (Ref.: Apuntes Tema 8: biografía y obras)
+
+**30. ¿Qué diferencia hay entre «amor de sí» y «amor propio» en Rousseau?**  
+✔ Uno es natural; el otro nace de compararse  
+✗ Son lo mismo  
+✗ El amor propio es natural y bueno  
+✗ El amor de sí es egoísta y malo  
+_El amor propio genera vanidad, envidia y rivalidad._ (Ref.: Rousseau, Discurso sobre el origen de la desigualdad)
+
+**31. ¿Qué sentimiento natural acompaña al amor de sí en el hombre natural de Rousseau?**  
+✔ La piedad  
+✗ El miedo  
+✗ El odio  
+✗ La ambición  
+_La piedad nos hace sufrir con el sufrimiento ajeno y modera el amor de sí._ (Ref.: Rousseau, Discurso sobre el origen de la desigualdad)
+
+**32. ¿Qué significa «obligar a ser libre» en El contrato social?**  
+✔ Que quien desobedezca la ley será obligado a cumplirla  
+✗ Que la libertad es una cárcel  
+✗ Que el rey obliga a los súbditos  
+✗ Que la libertad no existe  
+_Obedecer la ley que uno mismo se da es libertad._ (Ref.: Rousseau, El contrato social I, 7)
+
+**33. ¿Qué opinión tenía Rousseau sobre la representación política?**  
+✔ Que la soberanía no puede ser representada  
+✗ Que el Parlamento inglés era el modelo  
+✗ Que solo deben votar los ricos  
+✗ Que el rey representa al pueblo  
+_«El pueblo inglés cree ser libre; se engaña mucho: solo lo es durante la elección»._ (Ref.: Rousseau, El contrato social III, 15)
+
+**34. ¿Qué figura propone Rousseau para redactar las leyes?**  
+✔ Un legislador que propone leyes  
+✗ El rey absoluto  
+✗ El Papa  
+✗ El Parlamento elegido  
+_El legislador no tiene poder: el pueblo aprueba las leyes._ (Ref.: Rousseau, El contrato social II, 7)
+
+**35. ¿Qué es la «religión civil» en Rousseau?**  
+✔ Unas creencias que refuerzan el vínculo social  
+✗ La religión católica oficial  
+✗ El ateísmo obligatorio  
+✗ Una secta mística  
+_Incluye la existencia de Dios, la vida futura y la santidad del contrato y las leyes._ (Ref.: Rousseau, El contrato social IV, 8)
+
+**36. ¿En qué ciudad nació Rousseau?**  
+✔ Ginebra  
+✗ París  
+✗ Londres  
+✗ Berlín  
+_Se presentaba como «ciudadano de Ginebra»._ (Ref.: Apuntes Tema 8: biografía)
+
+**37. ¿Cuál es el gran problema que intenta resolver El contrato social?**  
+✔ Cómo asociarse y seguir siendo libre  
+✗ Demostrar la existencia de Dios  
+✗ Justificar la monarquía absoluta  
+✗ Organizar la economía  
+_Es la pregunta central del libro I, capítulo 6._ (Ref.: Rousseau, El contrato social I, 6)
+
+**38. ¿Qué jesuita español defendió que el poder político procede de Dios a través del pueblo?**  
+✔ Francisco Suárez  
+✗ Hobbes  
+✗ Juan de Mariana  
+✗ Baltasar Gracián  
+_La Escuela de Salamanca anticipó ideas sobre la soberanía popular._ (Ref.: Reale-Antiseri, II)
+
+**39. ¿Qué es la «posición original» de Rawls?**  
+✔ Elegir principios de justicia sin conocer el propio lugar  
+✗ El estado de naturaleza de Hobbes  
+✗ La Revolución francesa  
+✗ El origen biológico del hombre  
+_Tras el velo de ignorancia, se elegirían principios justos e imparciales._ (Ref.: Materiales «El contrato social»: Rawls)
+
+**40. ¿Qué tienen en común Hobbes, Locke y Rousseau?**  
+✔ Fundan la sociedad en un pacto  
+✗ Defienden el absolutismo  
+✗ Niegan los derechos naturales  
+✗ Creen que la sociedad es natural  
+_Difieren en el estado de naturaleza y en el tipo de Estado que justifican._ (Ref.: Programación Hª Fª, saber II.3.1)
+
 
 ## La Ilustración, los derechos y la primera ola feminista
 
@@ -1717,6 +3257,146 @@ _Condorcet escribió el Bosquejo de un cuadro histórico de los progresos del es
 ✗ Que la propiedad privada es un robo y debe abolirse  
 ✗ Que todos los ciudadanos deben profesar la religión católica  
 _Las distinciones sociales solo pueden fundarse en la utilidad común._ (Ref.: Declaración de los Derechos del Hombre y del Ciudadano (1789), art. 1)
+
+**21. ¿Qué significa el lema «Sapere aude»?**  
+✔ «Atrévete a saber»  
+✗ «Conócete a ti mismo»  
+✗ «Saber es poder»  
+✗ «Pienso, luego existo»  
+_Kant lo propone como divisa de la Ilustración._ (Ref.: Kant, ¿Qué es la Ilustración?)
+
+**22. ¿Qué causas de la «minoría de edad» señala Kant?**  
+✔ La pereza y la cobardía  
+✗ La pobreza y la enfermedad  
+✗ La falta de escuelas  
+✗ La juventud  
+_Es cómodo ser menor de edad y dejar que otros piensen por uno._ (Ref.: Kant, ¿Qué es la Ilustración?)
+
+**23. ¿Qué es el «uso público de la razón» para Kant?**  
+✔ El del estudioso ante el público, que debe ser libre  
+✗ El uso que hace un funcionario en su cargo  
+✗ El uso de la razón en las elecciones  
+✗ El uso de la razón por el rey  
+_El uso privado (en el cargo) puede limitarse; el público debe ser libre._ (Ref.: Kant, ¿Qué es la Ilustración?)
+
+**24. ¿Qué es el despotismo ilustrado?**  
+✔ Reformas desde arriba, «sin el pueblo»  
+✗ La democracia ilustrada  
+✗ El gobierno de los filósofos  
+✗ La monarquía parlamentaria  
+_Federico II de Prusia o Carlos III de España son ejemplos._ (Ref.: Apuntes Tema 9: contexto)
+
+**25. ¿Qué obra de Voltaire critica el optimismo de Leibniz?**  
+✔ Cándido  
+✗ Cartas filosóficas  
+✗ Tratado sobre la tolerancia  
+✗ Diccionario filosófico  
+_Pangloss repite que vivimos en el mejor de los mundos posibles mientras sufre desgracias._ (Ref.: Apuntes Tema 8: Voltaire)
+
+**26. ¿Qué caso judicial llevó a Voltaire a escribir el Tratado sobre la tolerancia?**  
+✔ El caso Calas  
+✗ El juicio a Sócrates  
+✗ El proceso a Galileo  
+✗ El juicio a Luis XVI  
+_Voltaire logró la rehabilitación de Jean Calas._ (Ref.: Reale-Antiseri, II)
+
+**27. ¿Qué terremoto de 1755 conmovió la confianza ilustrada en el orden del mundo?**  
+✔ El de Lisboa  
+✗ El de San Francisco  
+✗ El de Messina  
+✗ El de Tenerife  
+_Voltaire escribió un poema sobre él y discutió con Rousseau._ (Ref.: Reale-Antiseri, II)
+
+**28. ¿Qué es el enciclopedismo?**  
+✔ El proyecto de difundir el saber útil  
+✗ Una escuela de poesía  
+✗ Un movimiento religioso  
+✗ Una corriente artística  
+_La Enciclopedia sufrió prohibiciones y censura._ (Ref.: Apuntes Tema 8: la Enciclopedia)
+
+**29. ¿Qué artículo de la Declaración de 1789 protege la libertad de opinión?**  
+✔ El artículo 10  
+✗ El artículo 1  
+✗ El artículo 17  
+✗ El artículo 3  
+_Nadie debe ser molestado por sus opiniones, incluso religiosas, si no alteran el orden público._ (Ref.: Declaración de 1789, art. 10)
+
+**30. ¿Qué artículo de la Declaración de 1789 declara la propiedad «inviolable y sagrada»?**  
+✔ El artículo 17  
+✗ El artículo 1  
+✗ El artículo 10  
+✗ El artículo 6  
+_Es un reflejo de la influencia liberal de Locke._ (Ref.: Declaración de 1789, art. 17)
+
+**31. ¿Qué texto aprobó la ONU en 1948 como heredero de las declaraciones ilustradas?**  
+✔ La Declaración Universal de 1948  
+✗ El Contrato social  
+✗ La Carta Magna  
+✗ La Constitución de Cádiz  
+_Recoge derechos civiles, políticos, económicos y sociales._ (Ref.: Programación Hª Fª, saber III.1.1)
+
+**32. ¿Qué le ocurrió a Olympe de Gouges en 1793?**  
+✔ Fue guillotinada  
+✗ Fue nombrada ministra  
+✗ Emigró a América  
+✗ Fue coronada reina  
+_Fue condenada por sus escritos contra Robespierre._ (Ref.: Programación Hª Fª, saber III.1.2)
+
+**33. ¿A quién dedicó Olympe de Gouges su Declaración?**  
+✔ A María Antonieta  
+✗ A Robespierre  
+✗ A Napoleón  
+✗ A Rousseau  
+_Buscaba la protección de la reina para la causa de las mujeres._ (Ref.: Programación Hª Fª, saber III.1.2)
+
+**34. ¿Qué hija de Mary Wollstonecraft escribió Frankenstein?**  
+✔ Mary Shelley  
+✗ Jane Austen  
+✗ Emily Brontë  
+✗ Virginia Woolf  
+_Wollstonecraft murió al poco de dar a luz a su hija en 1797._ (Ref.: Programación Hª Fª, saber III.1.2)
+
+**35. ¿Qué obra de John Stuart Mill, influido por Harriet Taylor, defendió en el siglo XIX la igualdad de los sexos?**  
+✔ La sujeción de la mujer  
+✗ Vindicación de los derechos de la mujer  
+✗ El segundo sexo  
+✗ Sobre la libertad de prensa  
+_Mill la publicó en 1869, influido por Harriet Taylor._ (Ref.: Programación Hª Fª, SA3)
+
+**36. ¿Qué obra escribió el canario José Clavijo y Fajardo?**  
+✔ El periódico El Pensador  
+✗ Noticias de la historia de Canarias  
+✗ Fábulas literarias  
+✗ El sí de las niñas  
+_Clavijo y Fajardo, nacido en Lanzarote, publicó El Pensador en Madrid._ (Ref.: Programación Hª Fª, saber III.1.6)
+
+**37. ¿Qué obra de historia natural escribió Viera y Clavijo?**  
+✔ Un diccionario de historia natural  
+✗ El Pensador  
+✗ Fábulas literarias  
+✗ La Enciclopedia  
+_Viera describió plantas, animales y minerales de las islas._ (Ref.: Programación Hª Fª, saber III.1.6)
+
+**38. ¿Qué es la «sociedad estamental» que critica la Ilustración?**  
+✔ Una sociedad de privilegios de nacimiento  
+✗ Una sociedad de clases según la riqueza  
+✗ Una sociedad sin desigualdades  
+✗ Una democracia moderna  
+_La burguesía ilustrada reclamaba la igualdad ante la ley._ (Ref.: Apuntes Tema 8: contexto)
+
+**39. ¿Qué ilustrado escribió Del espíritu y fundamentó la moral en el interés?**  
+✔ Helvétius  
+✗ Montesquieu  
+✗ Diderot  
+✗ Rousseau  
+_Defendía que la educación lo puede todo en la formación del ser humano._ (Ref.: Apuntes Tema 8: Helvétius)
+
+**40. ¿Qué escritor precursor de la Ilustración escribió un Diccionario histórico y crítico?**  
+✔ Pierre Bayle  
+✗ Fontenelle  
+✗ Voltaire  
+✗ Condorcet  
+_Bayle defendió la tolerancia y criticó la superstición._ (Ref.: Apuntes Tema 8: Bayle)
 
 
 ## Kant
@@ -1861,6 +3541,146 @@ _Kant propone constituciones republicanas, una federación de pueblos y un derec
 ✗ Jena  
 _Kant nació y murió en Königsberg (Prusia oriental), donde fue profesor de la universidad._ (Ref.: Apuntes Tema 9: biografía)
 
+**21. ¿Cuáles son las tres Críticas de Kant?**  
+✔ Razón pura, razón práctica y juicio  
+✗ De la fe, de la razón y de la historia  
+✗ Del conocimiento, de la política y del arte  
+✗ De la ciencia, de la religión y del derecho  
+_Estudian, respectivamente, el conocimiento, la moral y el gusto estético y la finalidad._ (Ref.: Apuntes Tema 9: obras)
+
+**22. ¿En qué año se publicó la primera edición de la Crítica de la razón pura?**  
+✔ En 1781  
+✗ En 1637  
+✗ En 1789  
+✗ En 1848  
+_La segunda edición, revisada, es de 1787._ (Ref.: Apuntes Tema 9)
+
+**23. ¿Qué es un juicio analítico para Kant?**  
+✔ Aquel cuyo predicado está en el sujeto  
+✗ Aquel que amplía el conocimiento con la experiencia  
+✗ Aquel que expresa un sentimiento  
+✗ Aquel que es siempre falso  
+_Es a priori y no amplía el conocimiento._ (Ref.: Kant, Crítica de la razón pura, Introducción)
+
+**24. ¿Qué ejemplo de juicio sintético a priori pone Kant de las matemáticas?**  
+✔ 7 + 5 = 12  
+✗ Los cuerpos son extensos  
+✗ Este cuerpo es pesado  
+✗ Todos los solteros son no casados  
+_El concepto de 12 no está contenido en el de «7 + 5»: hay que construirlo en la intuición._ (Ref.: Kant, Crítica de la razón pura, Introducción)
+
+**25. ¿Qué significa «trascendental» en Kant?**  
+✔ Lo relativo a las condiciones a priori del conocer  
+✗ Lo que está más allá de la experiencia  
+✗ Lo divino  
+✗ Lo que se conoce por los sentidos  
+_No es lo trascendente: es el estudio de cómo es posible conocer a priori._ (Ref.: Kant, Crítica de la razón pura)
+
+**26. ¿Qué ciencia es posible gracias al espacio como forma a priori?**  
+✔ La geometría  
+✗ La aritmética  
+✗ La metafísica  
+✗ La psicología  
+_La aritmética se apoya en la sucesión temporal._ (Ref.: Kant, Crítica de la razón pura, Estética trascendental)
+
+**27. ¿Cuántas categorías distingue Kant?**  
+✔ Doce  
+✗ Diez  
+✗ Cuatro  
+✗ Tres  
+_Agrupadas en cantidad, cualidad, relación y modalidad._ (Ref.: Apuntes Tema 9: el entendimiento)
+
+**28. ¿Qué son las antinomias de la razón pura?**  
+✔ Tesis contrarias igualmente demostrables  
+✗ Errores de los sentidos  
+✗ Leyes de la física  
+✗ Imperativos morales  
+_Por ejemplo: el mundo tiene un comienzo en el tiempo / no lo tiene._ (Ref.: Kant, Crítica de la razón pura, Dialéctica)
+
+**29. ¿Qué función tienen las ideas de la razón si no dan conocimiento?**  
+✔ Una función regulativa  
+✗ Ninguna  
+✗ Una función constitutiva de objetos  
+✗ Una función religiosa  
+_Impulsan al entendimiento a buscar siempre más unidad, sin conocer objetos._ (Ref.: Kant, Crítica de la razón pura, Apéndice a la Dialéctica)
+
+**30. «Tuve que suprimir el saber para dejar sitio a la fe». ¿Qué expresa Kant con esta frase?**  
+✔ Que limita la razón teórica en favor de la práctica  
+✗ Que rechaza la ciencia  
+✗ Que la fe sustituye a la razón  
+✗ Que la religión es superior a la moral  
+_Dios, libertad e inmortalidad quedan fuera del conocimiento, pero no de la razón práctica._ (Ref.: Kant, Crítica de la razón pura, prólogo B XXX)
+
+**31. ¿Qué es un imperativo hipotético?**  
+✔ Un mandato condicionado  
+✗ Un mandato incondicionado  
+✗ Una ley de la naturaleza  
+✗ Una pregunta  
+_Pueden ser de habilidad o de prudencia (consejos para la felicidad)._ (Ref.: Kant, Fundamentación II)
+
+**32. ¿Qué ejemplo usa Kant para mostrar que mentir no puede universalizarse?**  
+✔ La falsa promesa  
+✗ El suicidio de un enfermo  
+✗ El robo de un pan  
+✗ El tendero que no engaña  
+_Si todos hicieran falsas promesas, nadie creería ninguna promesa._ (Ref.: Kant, Fundamentación II)
+
+**33. ¿Qué es el «reino de los fines»?**  
+✔ Una comunidad ideal de personas como fines  
+✗ El Estado prusiano  
+✗ El cielo cristiano  
+✗ Una utopía económica  
+_Es otra formulación del imperativo categórico._ (Ref.: Kant, Fundamentación II)
+
+**34. ¿Qué diferencia hay entre precio y dignidad en Kant?**  
+✔ El precio admite equivalente; la dignidad no  
+✗ Son lo mismo  
+✗ La dignidad se compra  
+✗ El precio es moral  
+_Las personas tienen dignidad, no precio._ (Ref.: Kant, Fundamentación II)
+
+**35. ¿Qué es el «sumo bien» para Kant?**  
+✔ Virtud unida a felicidad  
+✗ El placer máximo  
+✗ La riqueza  
+✗ El conocimiento científico  
+_Como no se da en esta vida, exige postular la inmortalidad y a Dios._ (Ref.: Kant, Crítica de la razón práctica)
+
+**36. «Dos cosas llenan el ánimo de admiración creciente: el cielo estrellado sobre mí y…». ¿Cómo termina?**  
+✔ «…la ley moral en mí»  
+✗ «…el amor de Dios»  
+✗ «…la belleza del mundo»  
+✗ «…la razón humana»  
+_Es la conclusión de la Crítica de la razón práctica, grabada en su tumba._ (Ref.: Kant, Crítica de la razón práctica, conclusión)
+
+**37. ¿Qué tipo de constitución defiende Kant en Sobre la paz perpetua?**  
+✔ Republicana  
+✗ Monarquía absoluta  
+✗ Democracia directa  
+✗ Teocracia  
+_Es el primer artículo definitivo para la paz perpetua._ (Ref.: Kant, Sobre la paz perpetua)
+
+**38. ¿Qué es el «derecho cosmopolita» en Kant?**  
+✔ El derecho a la hospitalidad  
+✗ El derecho a conquistar  
+✗ El derecho de los reyes  
+✗ El derecho a la propiedad  
+_No es un derecho de residencia, sino a no ser tratado con hostilidad._ (Ref.: Kant, Sobre la paz perpetua)
+
+**39. ¿Qué estudia la Crítica del juicio?**  
+✔ Lo bello, lo sublime y la finalidad  
+✗ La moral  
+✗ La lógica formal  
+✗ La política  
+_Lo bello agrada universalmente sin concepto y sin interés._ (Ref.: Kant, Crítica del juicio)
+
+**40. ¿Qué corriente filosófica posterior parte de Kant y lleva al idealismo absoluto?**  
+✔ El idealismo alemán  
+✗ El empirismo inglés  
+✗ El positivismo  
+✗ El existencialismo  
+_Eliminan la cosa en sí y hacen del sujeto el fundamento de todo._ (Ref.: Tema 61 oposiciones: Hegel)
+
 
 ## Marx y Rosa Luxemburgo
 
@@ -2003,6 +3823,146 @@ _El capitalismo necesita mercados exteriores; de ahí el colonialismo y el imper
 ✗ Que solo existen las ideas y que la materia es una construcción de la mente  
 ✗ Que la historia avanza por la voluntad de Dios y no por conflictos materiales  
 _El término fue popularizado por Engels y los marxistas posteriores; aplica la dialéctica (tesis, antítesis, síntesis) a la naturaleza y la historia._ (Ref.: Apuntes Tema 10: materialismo dialéctico)
+
+**21. ¿En qué ciudad nació Karl Marx en 1818?**  
+✔ Tréveris  
+✗ Berlín  
+✗ Londres  
+✗ Viena  
+_Nació en Tréveris (Renania) y murió en Londres en 1883, en el exilio._ (Ref.: Apuntes Tema 10: biografía)
+
+**22. ¿Qué grupo de discípulos de Hegel frecuentó el joven Marx?**  
+✔ Los jóvenes hegelianos  
+✗ Los neokantianos  
+✗ Los positivistas  
+✗ Los románticos de Jena  
+_Criticaban la religión y la política prusiana desde la filosofía de Hegel._ (Ref.: Apuntes Tema 10: contexto filosófico)
+
+**23. ¿Qué socialistas utópicos influyeron en Marx?**  
+✔ Saint-Simon, Fourier y Owen  
+✗ Hobbes y Locke  
+✗ Platón y Tomás Moro únicamente  
+✗ Bakunin y Kropotkin  
+_Marx valoró su crítica social, pero los consideró poco científicos._ (Ref.: Apuntes Tema 10: socialismo utópico)
+
+**24. ¿Qué economistas ingleses estudió Marx para su teoría del valor?**  
+✔ Adam Smith y David Ricardo  
+✗ Keynes y Hayek  
+✗ Malthus y Darwin  
+✗ Bentham y Mill  
+_De ellos tomó la teoría del valor-trabajo._ (Ref.: Apuntes Tema 10: economía política inglesa)
+
+**25. ¿Qué es el trabajo para Marx en su sentido no alienado?**  
+✔ La actividad con la que el ser humano se realiza  
+✗ Un castigo divino  
+✗ Una mercancía como cualquier otra  
+✗ Una actividad propia de esclavos  
+_El hombre se produce a sí mismo trabajando; el capitalismo convierte esa actividad en alienación._ (Ref.: Marx, Manuscritos de 1844)
+
+**26. ¿Qué son las «relaciones de producción»?**  
+✔ Las relaciones entre personas al producir  
+✗ Las máquinas y herramientas  
+✗ Las leyes del Estado  
+✗ Las ideas religiosas  
+_Las fuerzas productivas son trabajo, técnica y medios de producción._ (Ref.: Apuntes Tema 10: materialismo histórico)
+
+**27. ¿Cuándo se produce una revolución social según Marx?**  
+✔ Cuando fuerzas y relaciones de producción chocan  
+✗ Cuando lo decide un líder  
+✗ Cuando hay una guerra exterior  
+✗ Cuando cambia la religión  
+_Las relaciones de producción se convierten en trabas para el desarrollo y se abre una época de revolución._ (Ref.: Marx, Prólogo de 1859)
+
+**28. ¿Qué «modos de producción» distingue Marx en la historia?**  
+✔ Del comunismo primitivo al capitalismo  
+✗ Monarquía, aristocracia y democracia  
+✗ Edad de oro, plata y hierro  
+✗ Mito, logos y ciencia  
+_Cada modo de producción tiene sus clases enfrentadas._ (Ref.: Apuntes Tema 10: materialismo histórico)
+
+**29. ¿Qué es el «fetichismo de la mercancía»?**  
+✔ Que las relaciones humanas parecen relaciones entre cosas  
+✗ El amor por los objetos de lujo  
+✗ La religión de los comerciantes  
+✗ El culto a los dioses en los mercados  
+_El valor parece una propiedad natural de las cosas, ocultando el trabajo humano que hay detrás._ (Ref.: Marx, El capital I, cap. 1)
+
+**30. ¿En qué año se publicó el primer libro de El capital?**  
+✔ En 1867  
+✗ En 1848  
+✗ En 1789  
+✗ En 1917  
+_Los libros II y III los editó Engels tras la muerte de Marx._ (Ref.: Apuntes Tema 10: biografía y obras)
+
+**31. ¿Qué papel tiene el Estado para Marx?**  
+✔ Un instrumento de la clase dominante  
+✗ Es la realización de la razón  
+✗ Es neutral entre las clases  
+✗ Es un pacto libre entre iguales  
+_En el comunismo, al desaparecer las clases, el Estado se extinguiría._ (Ref.: Marx y Engels, Manifiesto comunista)
+
+**32. ¿Qué acontecimiento de 1871 analizó Marx como primer gobierno obrero?**  
+✔ La Comuna de París  
+✗ La Revolución rusa  
+✗ La Revolución de 1848  
+✗ La unificación alemana  
+_Lo estudió en La guerra civil en Francia._ (Ref.: Apuntes Tema 10)
+
+**33. ¿Qué crítica hace Marx a Feuerbach?**  
+✔ Que su materialismo no transforma la realidad  
+✗ Que es demasiado religioso  
+✗ Que es idealista como Hegel  
+✗ Que niega la materia  
+_Las Tesis sobre Feuerbach reclaman una filosofía de la praxis._ (Ref.: Marx, Tesis sobre Feuerbach)
+
+**34. ¿Qué es la «conciencia de clase»?**  
+✔ Que una clase comprenda sus intereses  
+✗ El orgullo de pertenecer a la nobleza  
+✗ La conciencia moral individual  
+✗ La fe religiosa del pueblo  
+_El proletariado debe pasar de ser «clase en sí» a «clase para sí»._ (Ref.: Apuntes Tema 10: lucha de clases)
+
+**35. ¿Qué colaboración Marx-Engels criticó a los jóvenes hegelianos y formuló el materialismo histórico?**  
+✔ La ideología alemana  
+✗ El capital  
+✗ La sagrada familia de Nazaret  
+✗ Crítica de la razón pura  
+_Escrita en 1845-1846, se publicó completa en el siglo XX._ (Ref.: Apuntes Tema 10)
+
+**36. ¿Qué es el «revisionismo» que combatió Rosa Luxemburgo?**  
+✔ La vía solo reformista de Bernstein  
+✗ La revisión de la Biblia  
+✗ El regreso a Hegel  
+✗ La defensa del capitalismo liberal  
+_Para Luxemburgo las reformas son medios, pero el fin sigue siendo la transformación revolucionaria._ (Ref.: Rosa Luxemburgo y el pensamiento marxista)
+
+**37. ¿Qué papel daba Rosa Luxemburgo a la espontaneidad de las masas?**  
+✔ Central: la revolución nace de las masas  
+✗ Ninguno: todo debe decidirlo el partido  
+✗ Solo un papel electoral  
+✗ Un papel religioso  
+_Desconfiaba del centralismo de Lenin y valoraba la huelga de masas._ (Ref.: Rosa Luxemburgo y el pensamiento marxista)
+
+**38. ¿Qué postura adoptó Rosa Luxemburgo ante la Primera Guerra Mundial?**  
+✔ Se opuso a ella y fue encarcelada  
+✗ La apoyó como deber patriótico  
+✗ Se mantuvo neutral  
+✗ Se alistó como enfermera  
+_Criticó a la socialdemocracia por votar los créditos de guerra._ (Ref.: Rosa Luxemburgo y el pensamiento marxista)
+
+**39. ¿Dónde nació Rosa Luxemburgo?**  
+✔ En Polonia  
+✗ En Berlín  
+✗ En Viena  
+✗ En París  
+_Nació en Zamość en 1871 y desarrolló su actividad en Alemania._ (Ref.: Rosa Luxemburgo y el pensamiento marxista)
+
+**40. ¿Qué lema planteó Rosa Luxemburgo como alternativa histórica?**  
+✔ «Socialismo o barbarie»  
+✗ «Proletarios del mundo, uníos»  
+✗ «Libertad, igualdad, fraternidad»  
+✗ «Dios ha muerto»  
+_Lo formuló en el Folleto de Junius (1915)._ (Ref.: Rosa Luxemburgo y el pensamiento marxista)
 
 
 ## La Escuela de Fráncfort y Hannah Arendt
@@ -2147,6 +4107,146 @@ _Benjamin, muerto en Portbou en 1940, describe el «ángel de la historia» empu
 ✗ El rechazo de toda reflexión política en favor de la contemplación  
 _Ambos se preguntan cómo la civilización ilustrada pudo desembocar en el totalitarismo y el Holocausto._ (Ref.: Programación Hª Fª, SA4)
 
+**21. ¿Qué significa «teoría crítica» frente a «teoría tradicional» en Horkheimer?**  
+✔ Una teoría que busca la emancipación  
+✗ Una teoría que critica el arte  
+✗ Una teoría solo económica  
+✗ Una teoría que niega la ciencia  
+_La teoría tradicional se limita a describir los hechos; la crítica pregunta por su injusticia._ (Ref.: Horkheimer, Teoría tradicional y teoría crítica (1937))
+
+**22. ¿Por qué se exiliaron los miembros de la Escuela de Fráncfort?**  
+✔ Por el ascenso del nazismo  
+✗ Por la Primera Guerra Mundial  
+✗ Por la Revolución rusa  
+✗ Por motivos económicos  
+_Muchos eran judíos y marxistas; el Instituto se trasladó a Ginebra y Nueva York._ (Ref.: Tema 69 oposiciones)
+
+**23. ¿Qué disciplina combinaron con el marxismo para estudiar la sociedad?**  
+✔ El psicoanálisis  
+✗ La teología  
+✗ La física cuántica  
+✗ La lógica formal  
+_Querían explicar por qué las masas aceptaban el autoritarismo._ (Ref.: Tema 69 oposiciones)
+
+**24. «Escribir poesía después de Auschwitz es un acto de barbarie». ¿De quién es esta frase?**  
+✔ Theodor W. Adorno  
+✗ Hannah Arendt  
+✗ Herbert Marcuse  
+✗ Walter Benjamin  
+_Expresa la crisis de la cultura tras el Holocausto._ (Ref.: Adorno, Crítica cultural y sociedad)
+
+**25. ¿Qué obra de Erich Fromm analiza por qué el ser humano renuncia a su libertad?**  
+✔ El miedo a la libertad  
+✗ El hombre unidimensional  
+✗ La condición humana  
+✗ Dialéctica negativa  
+_Fromm estudia el atractivo del autoritarismo para el individuo aislado._ (Ref.: Tema 69 oposiciones)
+
+**26. ¿Qué movimiento juvenil se inspiró en Marcuse?**  
+✔ El de mayo del 68  
+✗ El fascismo italiano  
+✗ El Círculo de Viena  
+✗ La Ilustración escocesa  
+_Marcuse veía en estudiantes y minorías marginadas un posible sujeto de cambio._ (Ref.: Tema 69 oposiciones)
+
+**27. ¿Qué filósofo debatió con la Escuela de Fráncfort defendiendo la «sociedad abierta»?**  
+✔ Karl Popper  
+✗ Martin Heidegger  
+✗ Ludwig Wittgenstein  
+✗ Jean-Paul Sartre  
+_Es la llamada «disputa del positivismo» en la sociología alemana._ (Ref.: Tema 69 oposiciones)
+
+**28. ¿Qué es la «situación ideal de habla» en Habermas?**  
+✔ Un diálogo igualitario y sin coacción  
+✗ Una conversación entre expertos  
+✗ Un discurso político  
+✗ Un debate televisivo  
+_Sirve de criterio para valorar la legitimidad de los acuerdos._ (Ref.: Tema 69 oposiciones)
+
+**29. ¿Qué es el totalitarismo para Arendt en relación con la ideología?**  
+✔ Un régimen sometido a una ideología total  
+✗ Un régimen sin ideas  
+✗ Una monarquía tradicional  
+✗ Un régimen religioso  
+_La ideología pretende explicar toda la historia por una sola idea: la raza o la lucha de clases._ (Ref.: Análisis del totalitarismo, El pensamiento de Hannah Arendt)
+
+**30. ¿Qué función tenían los campos de concentración según Arendt?**  
+✔ Destruir por completo a la persona  
+✗ Ser cárceles corrientes  
+✗ Ser campos de trabajo productivos  
+✗ Ser hospitales  
+_En ellos se demostraba que todo es posible y se convertía al ser humano en un haz de reacciones._ (Ref.: Hannah Arendt, Los orígenes del totalitarismo)
+
+**31. ¿Qué papel juega la soledad (loneliness) en el totalitarismo según Arendt?**  
+✔ Es la base de la dominación total  
+✗ Es una virtud del líder  
+✗ No tiene relación  
+✗ Es el ideal del ciudadano  
+_El totalitarismo destruye los vínculos entre las personas y la vida pública._ (Ref.: Hannah Arendt, Los orígenes del totalitarismo)
+
+**32. ¿Qué es la «labor» en La condición humana?**  
+✔ La actividad que atiende a la vida biológica  
+✗ La fabricación de objetos duraderos  
+✗ La acción política  
+✗ El pensamiento  
+_Su condición es la vida misma; el animal laborans repite ciclos de producción y consumo._ (Ref.: Hannah Arendt, La condición humana)
+
+**33. ¿Qué condición humana corresponde a la acción según Arendt?**  
+✔ La pluralidad  
+✗ La vida biológica  
+✗ La mundanidad  
+✗ La mortalidad  
+_Actuamos entre otros seres humanos distintos e iguales._ (Ref.: Hannah Arendt, La condición humana)
+
+**34. ¿Qué critica Arendt de la modernidad?**  
+✔ La pérdida del espacio público  
+✗ El exceso de vida política  
+✗ La falta de técnica  
+✗ El abandono de la religión  
+_La sociedad de consumo reduce la vida a trabajar y consumir._ (Ref.: Análisis de la modernidad, El pensamiento de Hannah Arendt)
+
+**35. ¿Qué consideraba Arendt el antídoto contra el mal banal?**  
+✔ El pensar  
+✗ La obediencia  
+✗ La fe religiosa  
+✗ La ciencia  
+_Quien piensa no puede cometer ciertos actos porque tendría que convivir consigo mismo._ (Ref.: La vida del espíritu, El pensamiento de Hannah Arendt)
+
+**36. ¿Qué obra de Arendt compara la Revolución americana y la francesa?**  
+✔ Sobre la revolución  
+✗ La condición humana  
+✗ Eichmann en Jerusalén  
+✗ La vida del espíritu  
+_Valora la americana por haber fundado un espacio de libertad._ (Ref.: Hannah Arendt, Sobre la revolución (1963))
+
+**37. ¿Qué corriente política defiende Arendt?**  
+✔ El republicanismo participativo  
+✗ El liberalismo económico  
+✗ El comunismo  
+✗ La monarquía  
+_Valora los consejos y la participación directa de los ciudadanos._ (Ref.: El republicanismo, El pensamiento de Hannah Arendt)
+
+**38. ¿Qué reacción provocó el libro Eichmann en Jerusalén?**  
+✔ Una fuerte polémica  
+✗ Indiferencia  
+✗ Un premio unánime  
+✗ Su prohibición en Estados Unidos  
+_Se criticó su tono y su referencia al papel de los consejos judíos._ (Ref.: Tema alumnado: Hannah Arendt)
+
+**39. ¿Cuál es el papel del perdón y la promesa en Arendt?**  
+✔ Liberan del pasado y dan estabilidad al futuro  
+✗ Son sentimientos religiosos sin valor político  
+✗ Solo sirven en la vida privada  
+✗ Son formas de dominación  
+_Responden a la irreversibilidad y la imprevisibilidad de la acción._ (Ref.: Hannah Arendt, La condición humana)
+
+**40. ¿En qué país se nacionalizó Hannah Arendt?**  
+✔ Estados Unidos  
+✗ Francia  
+✗ Israel  
+✗ Reino Unido  
+_Tras ser apátrida desde 1937, obtuvo la ciudadanía estadounidense en 1951._ (Ref.: Tema alumnado: Hannah Arendt)
+
 
 ## Nietzsche
 
@@ -2289,6 +4389,146 @@ _Paul Ricoeur llamó así a Marx, Nietzsche y Freud: los tres muestran lo que se
 ✗ Fundó el positivismo lógico del Círculo de Viena  
 ✗ Influyó sobre todo en la física cuántica  
 _Su crítica de la verdad y de los grandes relatos anticipa a Heidegger, Foucault, Derrida y la posmodernidad._ (Ref.: Programación Hª Fª, saber III.3.1)
+
+**21. ¿En qué año nació Nietzsche?**  
+✔ En 1844  
+✗ En 1818  
+✗ En 1900  
+✗ En 1770  
+_Nació en Röcken (Sajonia) y murió en Weimar en 1900._ (Ref.: Apuntes Tema 11: biografía)
+
+**22. ¿Qué profesión tuvo Nietzsche en Basilea?**  
+✔ Profesor de filología clásica  
+✗ Médico  
+✗ Pastor protestante  
+✗ Abogado  
+_Fue nombrado catedrático con solo 24 años._ (Ref.: Apuntes Tema 11: biografía)
+
+**23. ¿Qué le ocurrió a Nietzsche en Turín en 1889?**  
+✔ Un colapso mental  
+✗ Se casó  
+✗ Fue nombrado rector  
+✗ Se convirtió al catolicismo  
+_Pasó sus últimos años al cuidado de su madre y de su hermana._ (Ref.: Apuntes Tema 11: biografía)
+
+**24. ¿Qué papel tuvo su hermana Elisabeth en la obra de Nietzsche?**  
+✔ Manipuló sus escritos  
+✗ Fue su traductora fiel  
+✗ No tuvo ninguna relación  
+✗ Escribió Así habló Zaratustra  
+_Compiló La voluntad de poder a partir de notas, con criterios muy discutidos._ (Ref.: Apuntes Tema 11)
+
+**25. ¿Qué es el vitalismo?**  
+✔ La filosofía que hace de la vida el valor supremo  
+✗ El estudio biológico de las células  
+✗ La creencia en el alma inmortal  
+✗ Un método matemático  
+_Para Nietzsche, lo que niega la vida es decadente._ (Ref.: Apuntes Tema 11: vitalismo)
+
+**26. ¿Qué califica Nietzsche de «platonismo para el pueblo»?**  
+✔ El cristianismo  
+✗ La democracia  
+✗ La ciencia  
+✗ El arte griego  
+_Ambos desprecian este mundo en nombre de otro mundo verdadero._ (Ref.: Nietzsche, Más allá del bien y del mal, prólogo)
+
+**27. ¿Qué es el resentimiento en La genealogía de la moral?**  
+✔ El odio impotente de los débiles  
+✗ El amor al prójimo  
+✗ La alegría de vivir  
+✗ El miedo a la muerte  
+_La moral de esclavos dice «no» a lo diferente y llama malo a lo noble._ (Ref.: Nietzsche, La genealogía de la moral I)
+
+**28. ¿Qué crítica hace Nietzsche a la ciencia positiva?**  
+✔ Que aún cree en una verdad absoluta  
+✗ Que es demasiado artística  
+✗ Que no usa matemáticas  
+✗ Que niega la materia  
+_La ciencia sigue creyendo en un mundo verdadero y en el valor absoluto de la verdad._ (Ref.: Apuntes Tema 11: crítica a las ciencias positivas)
+
+**29. «Temo que no nos libraremos de Dios mientras sigamos creyendo en la gramática». ¿Qué quiere decir?**  
+✔ Que el lenguaje nos impone la metafísica  
+✗ Que hay que estudiar gramática  
+✗ Que Dios inventó el lenguaje  
+✗ Que la gramática es la mejor ciencia  
+_El sujeto gramatical nos hace creer en sustancias y en un yo permanente._ (Ref.: Nietzsche, Crepúsculo de los ídolos)
+
+**30. ¿Cómo cuenta Nietzsche que el «mundo verdadero» acabó convirtiéndose en fábula?**  
+✔ En «Historia de un error»  
+✗ En el Manifiesto comunista  
+✗ En el Tractatus  
+✗ En El nacimiento de la tragedia  
+_Repasa la historia de la metafísica desde Platón hasta la abolición del mundo verdadero._ (Ref.: Nietzsche, Crepúsculo de los ídolos)
+
+**31. ¿Qué personaje persa toma Nietzsche como portavoz de su filosofía?**  
+✔ Zaratustra  
+✗ Ciro  
+✗ Mitra  
+✗ Darío  
+_El fundador del dualismo moral es quien anuncia ahora su superación._ (Ref.: Nietzsche, Así habló Zaratustra)
+
+**32. ¿Qué significa «amor fati»?**  
+✔ Amar el propio destino  
+✗ Amor a la patria  
+✗ Miedo al destino  
+✗ Amor a Dios  
+_No solo soportar lo necesario, sino amarlo._ (Ref.: Nietzsche, Ecce homo)
+
+**33. ¿Qué es el «último hombre» en Así habló Zaratustra?**  
+✔ El hombre mediocre y acomodado  
+✗ El superhombre  
+✗ El último cristiano  
+✗ El último griego  
+_Es lo contrario del superhombre: no desea nada grande._ (Ref.: Nietzsche, Así habló Zaratustra, prólogo)
+
+**34. ¿Qué obra de Nietzsche lleva el subtítulo «Cómo se filosofa con el martillo»?**  
+✔ Crepúsculo de los ídolos  
+✗ El Anticristo  
+✗ Ecce homo  
+✗ Humano, demasiado humano  
+_El martillo sirve para auscultar y derribar ídolos._ (Ref.: Nietzsche, Crepúsculo de los ídolos)
+
+**35. ¿Qué obra autobiográfica escribió Nietzsche poco antes de su colapso?**  
+✔ Ecce homo  
+✗ La gaya ciencia  
+✗ Aurora  
+✗ El caminante y su sombra  
+_Incluye capítulos como «Por qué soy tan sabio»._ (Ref.: Apuntes Tema 11: obras)
+
+**36. ¿Qué valora Nietzsche del arte?**  
+✔ Que estimula la vida  
+✗ Que copia la realidad  
+✗ Que es entretenimiento  
+✗ Que enseña moral  
+_«Tenemos el arte para no perecer a causa de la verdad»._ (Ref.: Apuntes Tema 11)
+
+**37. ¿Cómo concibe Nietzsche el cuerpo?**  
+✔ Como la «gran razón»  
+✗ Como cárcel del alma  
+✗ Como máquina  
+✗ Como algo despreciable  
+_Zaratustra critica a los «despreciadores del cuerpo»._ (Ref.: Nietzsche, Así habló Zaratustra I)
+
+**38. ¿Qué relación tiene Nietzsche con el nazismo?**  
+✔ Su obra fue manipulada por el nazismo  
+✗ Fue miembro del partido  
+✗ Escribió el programa nazi  
+✗ Vivió en la Alemania de Hitler  
+_Murió en 1900; su hermana se acercó después al nazismo._ (Ref.: Apuntes Tema 11)
+
+**39. ¿Qué entiende Nietzsche por «decadencia»?**  
+✔ El debilitamiento de la vida  
+✗ El progreso técnico  
+✗ La caída de un imperio  
+✗ El envejecimiento físico  
+_Sócrates, el cristianismo y la modernidad son síntomas de decadencia._ (Ref.: Apuntes Tema 11)
+
+**40. ¿Qué filósofo francés posterior desarrolló el método genealógico de Nietzsche?**  
+✔ Michel Foucault  
+✗ René Descartes  
+✗ Auguste Comte  
+✗ Henri Bergson  
+_Foucault aplicó la genealogía al estudio del poder, la locura y la sexualidad._ (Ref.: Tema 71 oposiciones)
 
 
 ## Wittgenstein y el giro lingüístico
@@ -2433,6 +4673,146 @@ _Del lenguaje como figura del mundo pasamos al lenguaje como conjunto de juegos 
 ✗ Gilbert Ryle  
 _Russell analizó frases como «el actual rey de Francia es calvo» para evitar compromisos ontológicos._ (Ref.: Tema 68 oposiciones)
 
+**21. ¿Qué estudió Wittgenstein antes de dedicarse a la filosofía?**  
+✔ Ingeniería  
+✗ Medicina  
+✗ Teología  
+✗ Derecho  
+_Estudió ingeniería en Berlín y Mánchester; el interés por los fundamentos de las matemáticas lo llevó a Russell._ (Ref.: Apuntes Tema 13: biografía)
+
+**22. ¿Qué hizo Wittgenstein con su enorme herencia familiar?**  
+✔ Renunció a ella y la repartió  
+✗ La invirtió en una universidad  
+✗ La donó a la Iglesia  
+✗ La perdió en el juego  
+_Quería vivir con sencillez._ (Ref.: Apuntes Tema 13: biografía)
+
+**23. ¿Qué son los «hechos atómicos» del Tractatus?**  
+✔ Los hechos más simples  
+✗ Partículas físicas  
+✗ Ideas innatas  
+✗ Sensaciones  
+_Les corresponden las proposiciones elementales._ (Ref.: Wittgenstein, Tractatus 2)
+
+**24. ¿Qué significa que algo «se muestra» pero no «se dice» en el Tractatus?**  
+✔ Que no puede decirse, aunque se manifieste  
+✗ Que es falso  
+✗ Que es una ilusión  
+✗ Que se dice en voz baja  
+_La forma lógica, por ejemplo, se muestra en las proposiciones pero no puede decirse._ (Ref.: Wittgenstein, Tractatus 4.12-4.1212)
+
+**25. ¿Qué son las tautologías para el primer Wittgenstein?**  
+✔ Proposiciones vacías de contenido  
+✗ Proposiciones falsas  
+✗ Proposiciones empíricas  
+✗ Proposiciones éticas  
+_Por ejemplo, «llueve o no llueve»; las proposiciones de la lógica son tautologías._ (Ref.: Wittgenstein, Tractatus 4.46)
+
+**26. ¿Qué imagen usa Wittgenstein al final del Tractatus para sus propias proposiciones?**  
+✔ Una escalera que se tira  
+✗ Un árbol  
+✗ Una caverna  
+✗ Una red de pesca  
+_Las proposiciones del Tractatus son, en rigor, sinsentidos que ayudan a ver el mundo correctamente._ (Ref.: Wittgenstein, Tractatus 6.54)
+
+**27. ¿Qué dice Wittgenstein sobre el sentido de la vida en el Tractatus?**  
+✔ Que está fuera del mundo  
+✗ Que es la felicidad  
+✗ Que no existe  
+✗ Que lo explica la ciencia  
+_Aunque se respondieran todas las preguntas científicas, nuestros problemas vitales seguirían intactos._ (Ref.: Wittgenstein, Tractatus 6.41 y 6.52)
+
+**28. ¿Qué es el «criterio de verificación» del Círculo de Viena?**  
+✔ Solo tiene sentido lo verificable  
+✗ Todo es verdadero  
+✗ Solo la fe da sentido  
+✗ Las proposiciones éticas son las más significativas  
+_Por eso consideraban sin sentido la metafísica._ (Ref.: Tema 68 oposiciones)
+
+**29. ¿Qué es una «forma de vida» en las Investigaciones?**  
+✔ El contexto de prácticas del lenguaje  
+✗ Una especie biológica  
+✗ Una biografía  
+✗ Un estilo de moda  
+_«Imaginar un lenguaje es imaginar una forma de vida»._ (Ref.: Wittgenstein, Investigaciones filosóficas §19)
+
+**30. ¿Qué ejemplo usa Wittgenstein para mostrar que no hay una esencia común a todos los usos de una palabra?**  
+✔ La palabra «juego»  
+✗ La palabra «Dios»  
+✗ La palabra «mesa»  
+✗ La palabra «yo»  
+_Juegos de mesa, de cartas, de pelota: no hay nada común a todos._ (Ref.: Wittgenstein, Investigaciones filosóficas §66)
+
+**31. ¿Qué ejemplo de lenguaje primitivo aparece al inicio de las Investigaciones?**  
+✔ Un albañil y su ayudante  
+✗ Un niño que aprende a contar  
+✗ Un juez y un acusado  
+✗ Un comerciante y un cliente  
+_Muestra el lenguaje como una actividad ligada a una tarea._ (Ref.: Wittgenstein, Investigaciones filosóficas §2)
+
+**32. ¿A qué autor critica Wittgenstein al comienzo de las Investigaciones por su visión del lenguaje?**  
+✔ A san Agustín  
+✗ A Descartes  
+✗ A Kant  
+✗ A Nietzsche  
+_Agustín describe el aprendizaje como nombrar objetos, una visión demasiado simple._ (Ref.: Wittgenstein, Investigaciones filosóficas §1)
+
+**33. ¿Qué obra póstuma de Wittgenstein trata de las certezas que no ponemos en duda?**  
+✔ Sobre la certeza  
+✗ Cuaderno azul  
+✗ Observaciones sobre los colores  
+✗ Tractatus  
+_Algunas creencias son el «suelo» sobre el que se apoya toda duda._ (Ref.: Apuntes Tema 13: obras)
+
+**34. ¿Qué piensa Wittgenstein sobre la ética en su «Conferencia sobre ética»?**  
+✔ Que el lenguaje no alcanza lo absoluto  
+✗ Que es una ciencia  
+✗ Que es convencional  
+✗ Que no tiene valor  
+_Las expresiones éticas van más allá de los límites del lenguaje significativo._ (Ref.: Apuntes Tema 13: ética)
+
+**35. ¿Qué filósofo analítico inglés desarrolló la filosofía del lenguaje ordinario y los actos de habla?**  
+✔ John L. Austin  
+✗ Karl Popper  
+✗ Alfred Tarski  
+✗ W. V. Quine  
+_En Cómo hacer cosas con palabras, Austin estudia los enunciados performativos._ (Ref.: Tema 68 oposiciones)
+
+**36. ¿Qué lógico alemán distinguió entre sentido y referencia?**  
+✔ Gottlob Frege  
+✗ Bertrand Russell  
+✗ Rudolf Carnap  
+✗ Moritz Schlick  
+_«Lucero de la mañana» y «lucero de la tarde» tienen la misma referencia y distinto sentido._ (Ref.: Tema 4 oposiciones)
+
+**37. ¿Qué famoso episodio enfrentó a Wittgenstein y Popper en Cambridge en 1946?**  
+✔ La discusión del atizador  
+✗ Un duelo  
+✗ Un debate sobre fútbol  
+✗ Un juicio  
+_Popper defendía problemas reales; Wittgenstein, solo enigmas lingüísticos._ (Ref.: Tema 68 oposiciones)
+
+**38. ¿Qué relación tiene Wittgenstein con Dios en sus escritos?**  
+✔ Lo sitúa en lo místico, indecible  
+✗ Lo demuestra lógicamente  
+✗ Lo niega como sinsentido sin valor  
+✗ No menciona nunca a Dios  
+_En los Diarios escribe que creer en Dios es ver que la vida tiene sentido._ (Ref.: Apuntes Tema 13: Dios)
+
+**39. ¿Qué entiende el segundo Wittgenstein por «seguir una regla»?**  
+✔ Una práctica social  
+✗ Un cálculo mental  
+✗ Obedecer una ley  
+✗ Leer un manual  
+_Las reglas se apoyan en costumbres y acuerdos en formas de vida._ (Ref.: Wittgenstein, Investigaciones filosóficas §199-202)
+
+**40. ¿En qué ciudad murió Wittgenstein en 1951?**  
+✔ Cambridge  
+✗ Viena  
+✗ Berlín  
+✗ Dublín  
+_Sus últimas palabras: «Dígales que he tenido una vida maravillosa»._ (Ref.: Apuntes Tema 13: biografía)
+
 
 ## El existencialismo: Heidegger y Sartre
 
@@ -2575,6 +4955,146 @@ _Kierkegaard reivindicó al individuo concreto frente al sistema hegeliano y ana
 ✗ La lógica formal y el análisis del lenguaje científico  
 ✗ La teología escolástica y las pruebas de la existencia de Dios  
 _Heidegger rechazó la etiqueta de existencialista, pero su análisis del Dasein influyó decisivamente en Sartre._ (Ref.: Programación Hª Fª, saber III.3.3)
+
+**21. ¿Qué es la «diferencia ontológica» en Heidegger?**  
+✔ La diferencia entre el ser y los entes  
+✗ La diferencia entre alma y cuerpo  
+✗ La diferencia entre Dios y el mundo  
+✗ La diferencia entre hombre y mujer  
+_El ser no es un ente más, ni siquiera el supremo._ (Ref.: Tema 67 oposiciones)
+
+**22. ¿Qué significa que el Dasein está «arrojado» (Geworfenheit)?**  
+✔ Que se halla en un mundo no elegido  
+✗ Que fue expulsado del paraíso  
+✗ Que es un objeto lanzado  
+✗ Que vive sin hogar  
+_No elegimos nacer ni nuestra situación inicial._ (Ref.: Heidegger, Ser y tiempo §29)
+
+**23. ¿Qué es el «cuidado» (Sorge) en Heidegger?**  
+✔ El ser del Dasein  
+✗ Una virtud moral  
+✗ La atención médica  
+✗ El miedo a la muerte  
+_El cuidado unifica existencia, facticidad y caída._ (Ref.: Heidegger, Ser y tiempo §41)
+
+**24. ¿Qué es lo «a la mano» en Heidegger?**  
+✔ Las cosas como útiles  
+✗ Los objetos científicos  
+✗ Las Ideas  
+✗ Las personas  
+_El martillo se nos da primero como útil, no como objeto de contemplación._ (Ref.: Heidegger, Ser y tiempo §15)
+
+**25. ¿Qué polémica marca la biografía de Heidegger?**  
+✔ Su apoyo al nazismo en 1933  
+✗ Su condena por la Inquisición  
+✗ Su exilio en América  
+✗ Su participación en la Resistencia  
+_Fue rector durante un año; su relación con el nazismo sigue debatiéndose._ (Ref.: Tema 67 oposiciones)
+
+**26. ¿Qué papel tiene la poesía en el segundo Heidegger?**  
+✔ Es donde se manifiesta el ser  
+✗ Es un entretenimiento  
+✗ No tiene importancia  
+✗ Es inferior a la ciencia  
+_«Poéticamente habita el hombre»._ (Ref.: Tema 67 oposiciones)
+
+**27. ¿Qué significa «nada» en la conferencia ¿Qué es metafísica? de Heidegger?**  
+✔ Lo que revela la angustia  
+✗ El vacío físico  
+✗ El cero matemático  
+✗ Dios  
+_La pregunta fundamental es: ¿por qué hay ente y no más bien nada?_ (Ref.: Heidegger, ¿Qué es metafísica? (1929))
+
+**28. ¿Qué filósofo francés escribió El mito de Sísifo sobre el absurdo?**  
+✔ Albert Camus  
+✗ Jean-Paul Sartre  
+✗ Gabriel Marcel  
+✗ Maurice Merleau-Ponty  
+_«Hay que imaginarse a Sísifo feliz»._ (Ref.: Programación Hª Fª, saber III.3.3)
+
+**29. ¿Qué representa Dios para el existencialismo ateo de Sartre?**  
+✔ Su inexistencia deja al hombre sin esencia previa  
+✗ Un garante de los valores  
+✗ El creador de la esencia humana  
+✗ Un tema irrelevante  
+_Si Dios no existe, todo está permitido (cita de Dostoievski) y el hombre está solo._ (Ref.: Sartre, El existencialismo es un humanismo)
+
+**30. ¿Qué ejemplo usa Sartre del camarero para explicar la mala fe?**  
+✔ Uno que se cree solo camarero  
+✗ Un camarero que roba  
+✗ Un camarero que rechaza su trabajo  
+✗ Un camarero que estudia filosofía  
+_Se identifica con su función como una cosa, negando su libertad._ (Ref.: Sartre, El ser y la nada)
+
+**31. ¿Qué consejo dio Sartre al alumno que dudaba entre cuidar a su madre o unirse a la Resistencia?**  
+✔ «Usted es libre: elija»  
+✗ Que cuidara a su madre  
+✗ Que se uniera a la Resistencia  
+✗ Que consultara a un sacerdote  
+_Ninguna moral general puede decidir por él._ (Ref.: Sartre, El existencialismo es un humanismo)
+
+**32. ¿Qué es la «náusea» en la novela de Sartre?**  
+✔ La gratuidad de la existencia  
+✗ Una enfermedad física  
+✗ El asco por la comida  
+✗ El miedo a la muerte  
+_Roquentin descubre ante la raíz de un castaño que la existencia «está de más»._ (Ref.: Sartre, La náusea)
+
+**33. ¿Qué es la «mirada» del otro en Sartre?**  
+✔ Lo que me hace objeto  
+✗ Un acto de amor  
+✗ La visión física  
+✗ Un juicio divino  
+_El ejemplo es la vergüenza de quien es sorprendido mirando por una cerradura._ (Ref.: Sartre, El ser y la nada)
+
+**34. ¿Con qué corriente política intentó Sartre conciliar el existencialismo en su madurez?**  
+✔ El marxismo  
+✗ El liberalismo  
+✗ El anarquismo  
+✗ La democracia cristiana  
+_En Crítica de la razón dialéctica (1960)._ (Ref.: Programación Hª Fª, saber III.3.3)
+
+**35. ¿Qué revista fundaron Sartre, Beauvoir y Merleau-Ponty en 1945?**  
+✔ Les Temps modernes  
+✗ Revista de Occidente  
+✗ Cruz y Raya  
+✗ Esprit  
+_Fue la gran tribuna del existencialismo y del compromiso intelectual._ (Ref.: Tema alumnado: Simone de Beauvoir)
+
+**36. ¿Qué es el «compromiso» (engagement) para Sartre?**  
+✔ El deber de intervenir en su tiempo  
+✗ Un contrato matrimonial  
+✗ Un juramento religioso  
+✗ La obediencia a un partido  
+_Escribir es actuar: el escritor es responsable de su época._ (Ref.: Sartre, ¿Qué es la literatura?)
+
+**37. ¿Qué existencialista cristiano francés escribió Ser y tener?**  
+✔ Gabriel Marcel  
+✗ Albert Camus  
+✗ Sartre  
+✗ Merleau-Ponty  
+_Hay también un existencialismo creyente, iniciado por Kierkegaard._ (Ref.: Programación Hª Fª, saber III.3.3)
+
+**38. ¿Qué obra de Kierkegaard plantea la elección entre vida estética y vida ética?**  
+✔ O lo uno o lo otro  
+✗ Temor y temblor  
+✗ El concepto de la angustia  
+✗ La enfermedad mortal  
+_Kierkegaard describe los estadios estético, ético y religioso._ (Ref.: Programación Hª Fª, saber III.3.3)
+
+**39. ¿Qué escritor español se considera cercano al existencialismo por Del sentimiento trágico de la vida?**  
+✔ Miguel de Unamuno  
+✗ Ortega y Gasset  
+✗ Antonio Machado  
+✗ Pío Baroja  
+_Unamuno expresa la agonía entre la razón y el deseo de inmortalidad._ (Ref.: Apuntes Tema 12: Unamuno)
+
+**40. ¿Qué entiende Heidegger por «habladuría» (Gerede)?**  
+✔ Repetir lo que «se dice»  
+✗ Hablar en público  
+✗ La poesía  
+✗ El lenguaje técnico  
+_Junto con la curiosidad y la ambigüedad, caracteriza la existencia inauténtica._ (Ref.: Heidegger, Ser y tiempo §35)
 
 
 ## Simone de Beauvoir y el feminismo contemporáneo
@@ -2719,6 +5239,146 @@ _La mujer puede ser cómplice de su opresión si renuncia a asumir su libertad._
 ✗ Harriet Taylor  
 _Una habitación propia es un antecedente importante del feminismo contemporáneo._ (Ref.: Programación Hª Fª, saber III.3.5)
 
+**21. ¿En qué año nació Simone de Beauvoir?**  
+✔ En 1908  
+✗ En 1949  
+✗ En 1870  
+✗ En 1789  
+_Nació en París en una familia burguesa y murió en 1986._ (Ref.: Tema alumnado: Simone de Beauvoir)
+
+**22. ¿Qué título académico obtuvo Beauvoir en 1929, con solo 21 años?**  
+✔ La agregación de filosofía  
+✗ El doctorado en medicina  
+✗ La licenciatura en derecho  
+✗ El título de maestra  
+_Quedó segunda, detrás de Sartre._ (Ref.: Tema alumnado: Simone de Beauvoir)
+
+**23. ¿Qué primera novela publicó Beauvoir en 1943?**  
+✔ La invitada  
+✗ Los mandarines  
+✗ La mujer rota  
+✗ Todos los hombres son mortales  
+_Trata del triángulo amoroso y de la mirada del otro._ (Ref.: Tema alumnado: Simone de Beauvoir)
+
+**24. ¿Qué relación propone Beauvoir entre biología y destino?**  
+✔ La biología no es destino  
+✗ La biología lo determina todo  
+✗ La biología no existe  
+✗ La mujer es biológicamente superior  
+_Los datos biológicos solo tienen sentido dentro de una situación social._ (Ref.: Beauvoir, El segundo sexo I)
+
+**25. ¿Qué opinión expresa Beauvoir sobre los mitos de la feminidad?**  
+✔ Que sirven a los intereses masculinos  
+✗ Que reflejan la verdadera naturaleza femenina  
+✗ Que no influyen en la vida real  
+✗ Que son inventos de las mujeres  
+_El eterno femenino, la madre, la virgen o la tentadora son proyecciones masculinas._ (Ref.: Beauvoir, El segundo sexo I, «Mitos»)
+
+**26. ¿Cómo se titula el segundo volumen de El segundo sexo?**  
+✔ La experiencia vivida  
+✗ Los hechos y los mitos  
+✗ La mujer independiente  
+✗ Historia de las mujeres  
+_Describe la formación de la mujer desde la infancia hasta la vejez._ (Ref.: Beauvoir, El segundo sexo II)
+
+**27. ¿Qué recepción tuvo El segundo sexo en 1949?**  
+✔ Gran escándalo; luego lo vetó el Vaticano  
+✗ Pasó desapercibido  
+✗ Fue premiado por la Academia francesa  
+✗ Fue prohibido en EE. UU.  
+_Se vendieron miles de ejemplares en pocos días._ (Ref.: Tema alumnado: Simone de Beauvoir)
+
+**28. ¿Qué manifiesto firmó Beauvoir en 1971 a favor del aborto legal en Francia?**  
+✔ El Manifiesto de las 343  
+✗ El Manifiesto comunista  
+✗ El Manifiesto surrealista  
+✗ La Declaración de Seneca Falls  
+_343 mujeres declararon haber abortado para exigir su despenalización._ (Ref.: Tema alumnado: Simone de Beauvoir)
+
+**29. ¿Qué ley francesa despenalizó el aborto en 1975?**  
+✔ La ley Veil  
+✗ La ley Jules Ferry  
+✗ El Código napoleónico  
+✗ La ley Macron  
+_Lleva el nombre de la ministra Simone Veil._ (Ref.: Programación Hª Fª, saber III.3.5)
+
+**30. ¿Qué obra de Beauvoir relata la muerte de su madre?**  
+✔ Una muerte muy dulce  
+✗ La ceremonia del adiós  
+✗ La vejez  
+✗ Memorias de una joven formal  
+_Publicada en 1964._ (Ref.: Tema alumnado: Simone de Beauvoir)
+
+**31. ¿Qué obra de Beauvoir narra los últimos años de Sartre?**  
+✔ La ceremonia del adiós  
+✗ Una muerte muy dulce  
+✗ Los mandarines  
+✗ La invitada  
+_Publicada en 1981, tras la muerte de Sartre en 1980._ (Ref.: Tema alumnado: Simone de Beauvoir)
+
+**32. ¿Qué reunión de 1848 en Estados Unidos inició el movimiento sufragista organizado?**  
+✔ La Convención de Seneca Falls  
+✗ La Comuna de París  
+✗ El Congreso de Viena  
+✗ La Convención de Filadelfia  
+_Aprobó la Declaración de Sentimientos, inspirada en la Declaración de Independencia._ (Ref.: Programación Hª Fª, saber III.3.5)
+
+**33. ¿En qué país votaron por primera vez las mujeres en unas elecciones nacionales, en 1893?**  
+✔ Nueva Zelanda  
+✗ Reino Unido  
+✗ Estados Unidos  
+✗ Francia  
+_En España las mujeres votaron por primera vez en 1933._ (Ref.: Programación Hª Fª, saber III.3.5)
+
+**34. ¿Qué obra de Kate Millett analizó el patriarcado como sistema político?**  
+✔ Política sexual  
+✗ La mística de la feminidad  
+✗ El segundo sexo  
+✗ Una habitación propia  
+_Publicada en 1970, es clave del feminismo radical._ (Ref.: Programación Hª Fª, saber III.3.5)
+
+**35. ¿Qué distingue el concepto de «género» del de «sexo» en el feminismo contemporáneo?**  
+✔ El género es social; el sexo, biológico  
+✗ Son sinónimos  
+✗ El sexo es cultural  
+✗ El género es biológico  
+_La distinción se inspira en la tesis de Beauvoir sobre «llegar a ser mujer»._ (Ref.: Programación Hª Fª, saber III.3.5)
+
+**36. ¿Qué reivindica el feminismo de la igualdad?**  
+✔ La igualdad de derechos y oportunidades  
+✗ La superioridad femenina  
+✗ La separación total de los sexos  
+✗ La vuelta al hogar  
+_El feminismo de la diferencia, en cambio, valora la especificidad femenina._ (Ref.: Programación Hª Fª, saber III.3.5)
+
+**37. ¿Qué filósofa española contemporánea ha estudiado el feminismo ilustrado y la Ilustración?**  
+✔ Amelia Valcárcel  
+✗ María Zambrano  
+✗ Concepción Arenal  
+✗ Rosa Chacel  
+_Valcárcel defiende un feminismo de la igualdad heredero de la Ilustración._ (Ref.: Programación Hª Fª, saber III.3.5)
+
+**38. ¿Qué entiende Beauvoir por la «ambigüedad» de la condición humana?**  
+✔ Que somos libertad y facticidad a la vez  
+✗ Que no sabemos qué pensar  
+✗ Que somos buenos y malos por naturaleza  
+✗ Que somos solo cuerpo  
+_La moral consiste en asumir esa ambigüedad y no huir de ella._ (Ref.: Beauvoir, Para una moral de la ambigüedad)
+
+**39. ¿Qué piensa Beauvoir del matrimonio tradicional?**  
+✔ Que encierra a la mujer en la dependencia  
+✗ Que es la realización de la mujer  
+✗ Que debe ser obligatorio  
+✗ Que es irrelevante  
+_Ella y Sartre mantuvieron una relación libre, sin casarse ni convivir._ (Ref.: Beauvoir, El segundo sexo II)
+
+**40. ¿Qué viajes inspiraron obras de Beauvoir?**  
+✔ A EE. UU. y a China  
+✗ A la India y Japón  
+✗ A Rusia y Mongolia  
+✗ A Egipto y Grecia  
+_Escribió América día a día y La larga marcha._ (Ref.: Tema alumnado: Simone de Beauvoir)
+
 
 ## Ortega y Gasset
 
@@ -2862,6 +5522,146 @@ _Ortega describe el arte nuevo como impopular, intelectual y lúdico._ (Ref.: Ap
 ✗ Permaneció enseñando en la Universidad de Madrid durante toda la guerra  
 _Había sido diputado en las Cortes constituyentes de 1931 y tras la guerra no recuperó su cátedra._ (Ref.: Apuntes Tema 12: biografía)
 
+**21. ¿En qué año nació Ortega y Gasset?**  
+✔ En 1883  
+✗ En 1844  
+✗ En 1904  
+✗ En 1936  
+_Nació en Madrid y murió en la misma ciudad en 1955._ (Ref.: Apuntes Tema 12: biografía)
+
+**22. ¿En qué periódicos se formó y escribió Ortega?**  
+✔ El Imparcial y El Sol  
+✗ El País  
+✗ ABC  
+✗ La Vanguardia  
+_Ortega se crio en un ambiente periodístico y escribió mucho en prensa._ (Ref.: Apuntes Tema 12: biografía)
+
+**23. ¿Qué cátedra ocupó Ortega en la Universidad de Madrid?**  
+✔ Metafísica  
+✗ Lógica  
+✗ Ética  
+✗ Historia  
+_Desde 1910 fue catedrático de Metafísica en la Universidad Central._ (Ref.: Apuntes Tema 12: biografía)
+
+**24. ¿Qué significa «europeizar España» para Ortega?**  
+✔ Traer ciencia y rigor europeos  
+✗ Imitar las costumbres francesas  
+✗ Integrarse en un imperio europeo  
+✗ Abandonar el castellano  
+_«España es el problema y Europa la solución»._ (Ref.: Apuntes Tema 12: contexto)
+
+**25. ¿Qué es la «razón pura» que critica Ortega?**  
+✔ La razón separada de la vida  
+✗ La razón práctica de Kant  
+✗ La razón histórica  
+✗ La intuición poética  
+_La razón vital no renuncia a la razón, pero la vincula con la vida._ (Ref.: Ortega, El tema de nuestro tiempo)
+
+**26. ¿Qué significa que «la vida nos es dada, pero no nos es dada hecha»?**  
+✔ Que tenemos que hacer nuestra vida  
+✗ Que la vida es un regalo de Dios  
+✗ Que no podemos cambiar nada  
+✗ Que la vida está determinada  
+_Vivir es tener que hacer algo, decidir entre posibilidades._ (Ref.: Ortega, ¿Qué es filosofía?)
+
+**27. ¿Qué es el «hombre masa» para Ortega?**  
+✔ El que no se exige nada  
+✗ El obrero industrial  
+✗ El ciudadano pobre  
+✗ El hombre de la ciudad  
+_No es una clase social: puede haber hombres masa en todas las clases._ (Ref.: Ortega, La rebelión de las masas)
+
+**28. ¿Qué entiende Ortega por «minoría selecta»?**  
+✔ Quienes se exigen más  
+✗ Los ricos  
+✗ Los nobles  
+✗ Los políticos  
+_Es una noción moral, no económica ni de nacimiento._ (Ref.: Ortega, La rebelión de las masas)
+
+**29. ¿Qué es la «altura de los tiempos» en Ortega?**  
+✔ El nivel propio de una época  
+✗ La altura de los edificios  
+✗ La edad de una persona  
+✗ El progreso técnico  
+_Cada generación debe ponerse a la altura de su tiempo._ (Ref.: Ortega, El tema de nuestro tiempo)
+
+**30. ¿Qué ejemplo usa Ortega para explicar el perspectivismo?**  
+✔ Un paisaje visto desde dos lugares  
+✗ Un trozo de cera  
+✗ Un bastón en el agua  
+✗ La caverna  
+_Ambas visiones son verdaderas; ninguna es más real que la otra._ (Ref.: Ortega, El tema de nuestro tiempo; Apuntes Tema 12)
+
+**31. ¿Qué obra de Ortega trata sobre la función de la universidad?**  
+✔ Misión de la Universidad  
+✗ La deshumanización del arte  
+✗ Estudios sobre el amor  
+✗ El hombre y la gente  
+_La universidad debe transmitir la cultura, formar profesionales e investigar._ (Ref.: Ortega, Misión de la Universidad (1930))
+
+**32. ¿Qué institución creó Ortega en 1948 tras volver a España?**  
+✔ El Instituto de Humanidades  
+✗ La Residencia de Estudiantes  
+✗ El Ateneo de Madrid  
+✗ La Institución Libre de Enseñanza  
+_Allí impartió cursos fuera de la universidad oficial._ (Ref.: Apuntes Tema 12: biografía)
+
+**33. ¿Qué grupo político fundó Ortega en 1931 con Marañón y Pérez de Ayala?**  
+✔ La Agrupación al Servicio de la República  
+✗ El Partido Socialista  
+✗ Falange Española  
+✗ Izquierda Republicana  
+_Más tarde se desencantó: «No es esto, no es esto»._ (Ref.: Apuntes Tema 12: biografía)
+
+**34. ¿Qué entiende Ortega por «creencias» según Ideas y creencias?**  
+✔ Convicciones en las que vivimos  
+✗ Opiniones religiosas  
+✗ Ideas científicas  
+✗ Supersticiones  
+_«Las ideas se tienen; en las creencias se está»._ (Ref.: Ortega, Ideas y creencias)
+
+**35. ¿Qué obra de Ortega analiza el amor?**  
+✔ Estudios sobre el amor  
+✗ El tema de nuestro tiempo  
+✗ España invertebrada  
+✗ Meditaciones del Quijote  
+_Distingue el amor del deseo y analiza el enamoramiento como fenómeno de la atención._ (Ref.: Apuntes Tema 12: obras)
+
+**36. ¿Qué es «lo social» en El hombre y la gente?**  
+✔ Los usos impersonales  
+✗ La amistad  
+✗ La familia  
+✗ El Estado  
+_Los usos (saludar, la lengua) son mecánicos y presionan al individuo._ (Ref.: Ortega, El hombre y la gente)
+
+**37. ¿A qué pensadores alemanes vitalistas se aproxima Ortega?**  
+✔ Dilthey y Nietzsche  
+✗ Marx y Engels  
+✗ Kant y Hegel  
+✗ Frege y Carnap  
+_De Dilthey toma la idea de razón histórica._ (Ref.: Apuntes Tema 12: contexto filosófico)
+
+**38. ¿Qué discípulos de Ortega forman la llamada «Escuela de Madrid»?**  
+✔ Zubiri, Gaos, Marías y Zambrano  
+✗ Unamuno y Machado  
+✗ Lorca y Dalí  
+✗ Galdós y Clarín  
+_José Gaos difundió la filosofía de Ortega en México._ (Ref.: Apuntes Tema 12)
+
+**39. ¿Qué es el «yo» para Ortega?**  
+✔ Un proyecto  
+✗ Una sustancia pensante  
+✗ Un haz de percepciones  
+✗ Un alma inmortal  
+_Somos lo que tenemos que hacer, nuestra vocación._ (Ref.: Apuntes Tema 12: raciovitalismo)
+
+**40. ¿Qué entiende Ortega por «vocación»?**  
+✔ El proyecto auténtico de cada uno  
+✗ Una llamada religiosa  
+✗ Una profesión  
+✗ Un hobby  
+_La vida auténtica es la fiel a la propia vocación._ (Ref.: Apuntes Tema 12)
+
 
 ## María Zambrano
 
@@ -3004,3 +5804,143 @@ _En La tumba de Antígona (1967) Zambrano imagina a Antígona viva en la tumba, 
 ✗ Demostrar la existencia de Dios con silogismos  
 ✗ Fundar un movimiento político en el exilio  
 _Es una razón que no domina, sino que acoge, escucha y revela._ (Ref.: Programación Hª Fª, saber III.3.4)
+
+**21. ¿Quién fue el padre de María Zambrano?**  
+✔ Blas Zambrano, maestro  
+✗ Ortega y Gasset  
+✗ Miguel de Unamuno  
+✗ Manuel Azaña  
+_En Segovia la familia trató a Machado, que influyó en ella._ (Ref.: Apuntes Tema 12: María Zambrano)
+
+**22. ¿Qué estudió María Zambrano en Madrid?**  
+✔ Filosofía  
+✗ Medicina  
+✗ Derecho  
+✗ Química  
+_Fue alumna de Ortega, Zubiri y García Morente._ (Ref.: Apuntes Tema 12: María Zambrano)
+
+**23. ¿Qué obra de Zambrano analiza la responsabilidad de los intelectuales en la Guerra Civil?**  
+✔ Los intelectuales en el drama de España  
+✗ Claros del bosque  
+✗ Persona y democracia  
+✗ El hombre y lo divino  
+_Publicada en 1937, en plena guerra._ (Ref.: Zambrano, Los intelectuales en el drama de España)
+
+**24. ¿En qué países vivió Zambrano durante el exilio americano?**  
+✔ México, Cuba y Puerto Rico  
+✗ Argentina y Chile  
+✗ Estados Unidos y Canadá  
+✗ Brasil y Venezuela  
+_Enseñó en Morelia (México) y en La Habana._ (Ref.: Apuntes Tema 12: María Zambrano)
+
+**25. ¿En qué país europeo vivió Zambrano en un pueblo de la frontera durante años?**  
+✔ En Francia  
+✗ Italia, en Venecia  
+✗ Alemania, en Berlín  
+✗ Portugal, en Lisboa  
+_Antes vivió en Roma; después en La Pièce y en Ginebra._ (Ref.: Apuntes Tema 12: María Zambrano)
+
+**26. ¿Qué entiende Zambrano por «lo sagrado»?**  
+✔ Una realidad anterior a los dioses  
+✗ El dogma católico  
+✗ Las iglesias  
+✗ La moral  
+_Lo divino es la forma que da el ser humano a lo sagrado._ (Ref.: Zambrano, El hombre y lo divino)
+
+**27. ¿Qué es la «piedad» para Zambrano?**  
+✔ Saber tratar con lo otro  
+✗ La práctica religiosa  
+✗ La compasión por los pobres  
+✗ La obediencia  
+_La piedad es un sentimiento de relación con lo heterogéneo._ (Ref.: Zambrano, El hombre y lo divino)
+
+**28. ¿Qué es la «confesión» como género para Zambrano?**  
+✔ La palabra en que la vida se busca  
+✗ Un sacramento  
+✗ Un interrogatorio  
+✗ Una autobiografía periodística  
+_Lo estudia en La confesión, género literario (1943)._ (Ref.: Zambrano, La confesión, género literario)
+
+**29. ¿Qué autor clásico estudia Zambrano como figura del pensar español?**  
+✔ Séneca  
+✗ Platón  
+✗ Kant  
+✗ Descartes  
+_En El pensamiento vivo de Séneca (1944) valora su sabiduría práctica._ (Ref.: Zambrano, El pensamiento vivo de Séneca)
+
+**30. ¿Qué obra de Zambrano reúne sus recuerdos en forma de autobiografía novelada?**  
+✔ Delirio y destino  
+✗ Claros del bosque  
+✗ La agonía de Europa  
+✗ Filosofía y poesía  
+_Escrita en los años cincuenta, narra la España de la República._ (Ref.: Zambrano, Delirio y destino)
+
+**31. ¿Qué significa el «despertar» en el pensamiento de Zambrano?**  
+✔ Un nuevo nacer a la luz  
+✗ Levantarse por la mañana  
+✗ El fin de un sueño político  
+✗ La muerte  
+_El ser humano es un ser que tiene que nacer varias veces._ (Ref.: Zambrano, Claros del bosque)
+
+**32. ¿Qué imagen usa Zambrano para los claros del bosque?**  
+✔ Lugares donde se abre la luz  
+✗ Caminos marcados  
+✗ Ríos  
+✗ Montañas  
+_No se buscan: se ofrecen al que no los busca con avidez._ (Ref.: Zambrano, Claros del bosque)
+
+**33. ¿Qué poeta murió en Colliure y fue admirado por Zambrano y su familia?**  
+✔ Antonio Machado  
+✗ Federico García Lorca  
+✗ Miguel Hernández  
+✗ Luis Cernuda  
+_Machado había sido amigo de su padre en Segovia._ (Ref.: Apuntes Tema 12: María Zambrano)
+
+**34. ¿Qué hermana acompañó a María Zambrano en el exilio hasta su muerte?**  
+✔ Araceli  
+✗ Rosa  
+✗ Luisa  
+✗ Carmen  
+_Araceli murió en 1972; su pérdida marcó mucho a María._ (Ref.: Apuntes Tema 12: María Zambrano)
+
+**35. ¿Qué fundación recoge el legado de María Zambrano?**  
+✔ La de Vélez-Málaga  
+✗ La Fundación Ortega-Marañón  
+✗ La Residencia de Estudiantes  
+✗ El Instituto Cervantes  
+_Conserva su biblioteca y sus manuscritos._ (Ref.: Apuntes Tema 12: María Zambrano)
+
+**36. ¿Qué opinión tiene Zambrano de la historia como «sacrificial»?**  
+✔ Que ha exigido demasiadas víctimas  
+✗ Que la historia es progreso sin víctimas  
+✗ Que la historia no existe  
+✗ Que la historia es solo de los reyes  
+_Lo desarrolla en Persona y democracia._ (Ref.: Zambrano, Persona y democracia)
+
+**37. ¿Qué influencia de Unamuno reconoce Zambrano?**  
+✔ La atención a la agonía humana  
+✗ El método lógico  
+✗ La teoría económica  
+✗ El positivismo  
+_Escribió un estudio sobre Unamuno._ (Ref.: Apuntes Tema 12)
+
+**38. ¿Qué entiende Zambrano por «mediador» en su razón poética?**  
+✔ Una razón que media sin violentar  
+✗ Un juez  
+✗ Un sacerdote  
+✗ Un político  
+_La razón poética es mediadora y no dominadora._ (Ref.: Programación Hª Fª, saber III.3.4)
+
+**39. ¿Qué relación encuentra Zambrano entre filosofía y poesía en su origen griego?**  
+✔ Que se separaron con Platón  
+✗ Que siempre estuvieron unidas  
+✗ Que nunca tuvieron relación  
+✗ Que la poesía nació después  
+_Platón expulsó a los poetas; Zambrano quiere reconciliarlos._ (Ref.: Zambrano, Filosofía y poesía)
+
+**40. ¿Qué papel tiene el tiempo en Los sueños y el tiempo?**  
+✔ Muestra un tiempo sin sucesión ordenada  
+✗ El tiempo es solo cronológico  
+✗ El tiempo no existe  
+✗ El tiempo es una ilusión de los sentidos  
+_En el sueño el sujeto está pasivo, fuera del tiempo sucesivo de la vigilia._ (Ref.: Zambrano, Los sueños y el tiempo)

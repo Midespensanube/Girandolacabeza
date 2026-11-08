@@ -1,0 +1,13 @@
+GIRANDOLACABEZA_HªFª — CÓMO PUBLICARLA EN GITHUB (igual que Eduleguleyo)
+
+1. En GitHub, cree un repositorio nuevo y público, por ejemplo "Girandolacabeza".
+2. Pulse "Add file" → "Upload files" y suba estos 6 archivos:
+   index.html, manifest.json, sw.js, icon-192.png, icon-512.png, apple-touch-icon.png
+3. Settings → Pages → Source: "Deploy from a branch", rama "main", carpeta "/ (root)" → Save.
+4. Al cabo de un minuto la app estará en:
+   https://midespensanube.github.io/Girandolacabeza/
+5. En el móvil: ábrala con Safari (iPhone: Compartir → Añadir a pantalla de inicio)
+   o con Chrome (Android: menú ⋮ → Instalar aplicación).
+
+Para añadir preguntas más adelante, solo hay que sustituir index.html.
+Banco_de_preguntas.md contiene todas las preguntas con su respuesta, por si quiere revisarlas.

@@ -94,6 +94,7 @@ footer{font-size:12px;color:var(--muted);text-align:center;margin-top:24px}
     <div class="label">Modo oral</div>
     <div class="chips" id="orales"></div>
     <p class="nota-oral" id="notaOral"></p>
+    <div id="cajaVoz" class="hidden" style="margin-top:10px;display:flex;gap:8px;flex-wrap:wrap;align-items:center"><select id="selVoz" style="flex:1;min-width:180px;padding:9px;border-radius:9px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:14px"></select><button class="btn sec" id="probarVoz" style="padding:9px 14px">Probar voz</button></div>
     <div class="row">
       <button class="btn" id="empezar">Empezar</button>
       <button class="btn sec" id="repasar">Repasar mis fallos</button>
@@ -159,7 +160,11 @@ const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
 const TTS='speechSynthesis' in window;
 let oral=false,rec=null,escuchando=false,vozES=null,turno=0;
 try{oral=!!store&&store.getItem('girandolacabeza_oral')==='1'}catch(e){}
-function elegirVoz(){if(!TTS)return;const vs=speechSynthesis.getVoices();vozES=vs.find(v=>v.lang==='es-ES')||vs.find(v=>/^es/i.test(v.lang))||null}
+const HOMBRE=/pablo|[aá]lvaro|jorge|diego|juan|carlos|ra[uú]l|enrique|antonio|miguel|gonzalo|jos[eé]|andr[eé]s|dario|male|hombre|masculin/i;
+function vocesES(){return TTS?speechSynthesis.getVoices().filter(v=>/^es/i.test(v.lang)):[]}
+function elegirVoz(){if(!TTS)return;const vs=vocesES();let guardada=null;try{guardada=store&&store.getItem('girandolacabeza_voz')}catch(e){}
+ vozES=vs.find(v=>v.name===guardada)||vs.find(v=>v.lang==='es-ES'&&HOMBRE.test(v.name))||vs.find(v=>HOMBRE.test(v.name))||vs.find(v=>v.lang==='es-ES')||vs[0]||null;pintaVoces()}
+function pintaVoces(){const sel=$('selVoz');if(!sel)return;const vs=vocesES();sel.innerHTML='';vs.forEach(v=>{const o=document.createElement('option');o.value=v.name;o.textContent=v.name.replace(/Microsoft |Google |Online \(Natural\) /g,'')+' ('+v.lang+')'+(HOMBRE.test(v.name)?' · voz masculina':'');if(vozES&&v.name===vozES.name)o.selected=true;sel.appendChild(o)});$('cajaVoz').classList.toggle('hidden',!oral||!vs.length);$('cajaVoz').style.display=(!oral||!vs.length)?'none':'flex'}
 if(TTS){elegirVoz();speechSynthesis.onvoiceschanged=elegirVoz}
 function estadoVoz(cls,txt){const v=$('voz');v.classList.toggle('hidden',!oral||$('juego').classList.contains('hidden'));v.classList.remove('escucha','habla');if(cls)v.classList.add(cls);$('vozTxt').textContent=txt||'';$('vozBtn').classList.toggle('hidden',!SR||cls==='escucha')}
 function limpiar(s){return s.replace(/\ba\. C\./g,'antes de Cristo').replace(/\bd\. C\./g,'después de Cristo').replace(/ª/g,'').replace(/[«»]/g,'')}
@@ -185,7 +190,7 @@ function accion(r){if(r.cmd==='repetir'){leer();return}if(r.cmd==='salir'){parar
 function leer(){const {q,orden}=tanda[idx];let s=`Pregunta ${idx+1}. ${q.q} `;orden.forEach((oi,k)=>{s+=` ${LETRAS[k]}: ${q.o[oi]}. `});decir(s,SR?escuchar:()=>estadoVoz('','Responda tocando una opción.'))}
 function vozFeedback(bien,q){const {orden}=tanda[idx];const letra=LETRAS[orden.indexOf(q.c)];const s=(bien?'¡Correcto! ':`No es correcto. La respuesta es la ${letra}: ${q.o[q.c]}. `)+q.e;const t=turno+1;
  decir(s,()=>{setTimeout(()=>{if(!oral||t!==turno||$('juego').classList.contains('hidden'))return;siguiente()},900)})}
-function pintaOral(){chips($('orales'),[false,true],()=>oral,v=>{oral=v;try{store&&store.setItem('girandolacabeza_oral',v?'1':'0')}catch(e){}pintaOral()},v=>v?'Activado':'Desactivado');
+function pintaOral(){chips($('orales'),[false,true],()=>oral,v=>{oral=v;try{store&&store.setItem('girandolacabeza_oral',v?'1':'0')}catch(e){}pintaOral();pintaVoces()},v=>v?'Activado':'Desactivado');
  $('notaOral').textContent=oral?(TTS?(SR?'La app le leerá cada pregunta y podrá contestar de palabra: «A», «la segunda», «repetir», «siguiente» o «salir». La primera vez le pedirá permiso para usar el micrófono.':'Este navegador puede leer las preguntas, pero no reconoce la voz: responda tocando la opción.'):'Este navegador no admite la lectura en voz alta.'):''}
 /* ===== FIN MODO ORAL ===== */
 function muestra(){const {q,orden}=tanda[idx];$('contador').textContent=`Pregunta ${idx+1} de ${tanda.length}`;$('aciertos').textContent=`${ok} aciertos`;$('progreso').style.width=(100*idx/tanda.length)+'%';
@@ -207,7 +212,10 @@ $('repasarAhora').onclick=()=>empezar(fallosTanda);
 $('siguiente').onclick=()=>{parar();siguiente()};
 $('salir').onclick=()=>{parar();pinta();ver('inicio')};
 $('otra').onclick=()=>{parar();pinta();ver('inicio')};
+setTimeout(pintaVoces,300);
 $('vozBtn').onclick=()=>escuchar();
+$('selVoz').onchange=e=>{vozES=vocesES().find(v=>v.name===e.target.value)||vozES;try{store&&store.setItem('girandolacabeza_voz',e.target.value)}catch(x){}};
+$('probarVoz').onclick=()=>decir('Hola. Esta es la voz que leerá las preguntas.');
 pinta();pintaOral();
 if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}))}
 </script>
